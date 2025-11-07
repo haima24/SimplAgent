@@ -1,0 +1,95 @@
+﻿## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2019/2022 cache/options
+.vs/
+.vscode/
+.idea/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish output
+publish/
+wwwroot/_framework/
+wwwroot/_bin/
+wwwroot/_content/
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET temporary files
+[Tt]emp/
+tmp/
+*.log
+*.vsix
+*.cache
+*.dbmdl
+
+# Aspire / Blazor / RazorComponents
+**/bin/
+**/obj/
+**/wwwroot/_framework/
+**/wwwroot/_bin/
+
+# User secrets
+secrets.json
+*.pfx
+*.key
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage / test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.opencover
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Others
+*.sqlite
+*.bak
+*.backup
