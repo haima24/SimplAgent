@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplAgent.Web.ApiService",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplAgent.Web.Web", "SimplAgent.Web\SimplAgent.Web.Web\SimplAgent.Web.Web.csproj", "{46229280-5D5C-414C-A71C-87DDB4F6CF77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplAgent.Shared.Dtos", "SimplAgent.Shared.Dtos\SimplAgent.Shared.Dtos.csproj", "{0B076283-782E-46A8-BBDF-1F5BD3C66A19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,10 @@ Global
 		{46229280-5D5C-414C-A71C-87DDB4F6CF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46229280-5D5C-414C-A71C-87DDB4F6CF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46229280-5D5C-414C-A71C-87DDB4F6CF77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B076283-782E-46A8-BBDF-1F5BD3C66A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B076283-782E-46A8-BBDF-1F5BD3C66A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B076283-782E-46A8-BBDF-1F5BD3C66A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B076283-782E-46A8-BBDF-1F5BD3C66A19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

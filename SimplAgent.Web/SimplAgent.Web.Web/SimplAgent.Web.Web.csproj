@@ -8,6 +8,7 @@
 
   <ItemGroup>
 	  <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="9.0.9" />
+	  <ProjectReference Include="..\..\SimplAgent.Shared.Dtos\SimplAgent.Shared.Dtos.csproj" />
 	  <ProjectReference Include="..\SimplAgent.Web.ServiceDefaults\SimplAgent.Web.ServiceDefaults.csproj" />
   </ItemGroup>
 
