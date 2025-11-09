@@ -1,23 +1,21 @@
+using SimplAgent.Web.ApiService.Endpoints; 
+using SimplAgent.Core.Contracts;
+using SimplAgent.Core.Implementations;
+using SimplAgent.Shared.Dtos.Configuration;
 using SimplAgent.Web.ApiService.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add service defaults & Aspire client integrations.
+// Add required services
 builder.AddServiceDefaults();
-
 builder.Services.ReadConfigurations(builder.Configuration);
-
-
-
-// Add services to the container.
+builder.Services.AddScoped<IAgentFactory, AgentFactory>();
+builder.Services.Configure<AgentAIConfig>(builder.Configuration.GetSection("AgentAIConfig"));
 builder.Services.AddProblemDetails();
-
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 app.UseExceptionHandler();
 
 if (app.Environment.IsDevelopment())
@@ -25,7 +23,8 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 }
 
+app.MapAgentsApi();
+
 app.MapDefaultEndpoints();
 
 app.Run();
-

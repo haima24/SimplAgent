@@ -9,7 +9,7 @@ namespace SimplAgent.Web.ApiService.Extensions
            IConfiguration configuration
         )
         {
-            services.Configure<AzureOpenAIConfig>(configuration.GetSection("AgentConfig"));
+            services.Configure<AgentAIConfig>(configuration.GetSection("AgentConfig"));
 
             return services;
         }
