@@ -1,7 +1,7 @@
-using SimplAgent.Web.ApiService.Endpoints; 
+using SimplAgent.Core.Configuration;
 using SimplAgent.Core.Contracts;
 using SimplAgent.Core.Implementations;
-using SimplAgent.Shared.Dtos.Configuration;
+using SimplAgent.Web.ApiService.Endpoints;
 using SimplAgent.Web.ApiService.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -2,10 +2,9 @@ using Azure.AI.OpenAI;
 using Microsoft.Agents.AI;
 using Microsoft.Extensions.AI;
 using Microsoft.Extensions.Options;
+using SimplAgent.Core.Configuration;
 using SimplAgent.Core.Contracts;
-using SimplAgent.Shared.Dtos.Configuration;
 using System.ClientModel;
-using System.Collections.Concurrent;
 
 namespace SimplAgent.Core.Implementations;
 

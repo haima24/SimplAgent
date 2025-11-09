@@ -1,4 +1,4 @@
-﻿using SimplAgent.Shared.Dtos.Configuration;
+﻿using SimplAgent.Core.Configuration;
 
 namespace SimplAgent.Web.ApiService.Extensions
 {

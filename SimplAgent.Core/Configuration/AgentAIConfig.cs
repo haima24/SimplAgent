@@ -1,4 +1,4 @@
-﻿namespace SimplAgent.Shared.Dtos.Configuration;
+﻿namespace SimplAgent.Core.Configuration;
 
 public class AgentAIConfig
 {
