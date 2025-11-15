@@ -1,6 +1,6 @@
-using SimplAgent.Core.Configuration;
-using SimplAgent.Core.Contracts;
 using SimplAgent.Core.Implementations;
+using SimplAgent.Web.ApiService.Configuration;
+using SimplAgent.Web.ApiService.Contracts;
 using SimplAgent.Web.ApiService.Endpoints;
 using SimplAgent.Web.ApiService.Extensions;
 

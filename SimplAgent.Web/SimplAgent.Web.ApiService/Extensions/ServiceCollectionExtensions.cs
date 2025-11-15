@@ -1,4 +1,4 @@
-﻿using SimplAgent.Core.Configuration;
+﻿using SimplAgent.Web.ApiService.Configuration;
 
 namespace SimplAgent.Web.ApiService.Extensions
 {

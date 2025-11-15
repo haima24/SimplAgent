@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SimplAgent.Core.Contracts;
 using SimplAgent.Shared.Dtos.Contracts;
+using SimplAgent.Web.ApiService.Contracts;
 
 namespace SimplAgent.Web.ApiService.Endpoints;
 

@@ -2,8 +2,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplAgent.Core", "SimplAgent.Core\SimplAgent.Core.csproj", "{6A7B260C-C51E-4E0D-80C6-0B5F471B4ED0}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplAgent.Web.AppHost", "SimplAgent.Web\SimplAgent.Web.AppHost\SimplAgent.Web.AppHost.csproj", "{7979E9D9-9B22-46D1-994E-00E8C460CC63}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplAgent.Web.ServiceDefaults", "SimplAgent.Web\SimplAgent.Web.ServiceDefaults\SimplAgent.Web.ServiceDefaults.csproj", "{27C7C8AD-7447-42FC-A12C-0A1BBB8482A5}"
@@ -20,10 +18,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6A7B260C-C51E-4E0D-80C6-0B5F471B4ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6A7B260C-C51E-4E0D-80C6-0B5F471B4ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6A7B260C-C51E-4E0D-80C6-0B5F471B4ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6A7B260C-C51E-4E0D-80C6-0B5F471B4ED0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7979E9D9-9B22-46D1-994E-00E8C460CC63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7979E9D9-9B22-46D1-994E-00E8C460CC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7979E9D9-9B22-46D1-994E-00E8C460CC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
