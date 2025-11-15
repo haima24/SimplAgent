@@ -1,3 +1,4 @@
+using Microsoft.KernelMemory;
 using SimplAgent.Core.Implementations;
 using SimplAgent.Web.ApiService.Configuration;
 using SimplAgent.Web.ApiService.Contracts;
@@ -13,6 +14,18 @@ builder.Services.AddScoped<IAgentFactory, AgentFactory>();
 builder.Services.Configure<AgentAIConfig>(builder.Configuration.GetSection("AgentAIConfig"));
 builder.Services.AddProblemDetails();
 builder.Services.AddOpenApi();
+
+builder.Services.AddScoped<IKernelMemory>(serviceProvider =>
+{
+    var configuration = serviceProvider.GetRequiredService<IConfiguration>();
+    var endpoint = Environment.GetEnvironmentVariable($"services__simplagent-knowledge__https__0")
+                   ?? Environment.GetEnvironmentVariable($"services__simplagent-knowledge__http__0")
+                   ?? throw new InvalidOperationException("KernelMemory Endpoint configuration is required");
+    var apiKey = configuration["KernelMemory:ApiKey"]
+                ?? throw new InvalidOperationException("KernelMemory:ApiKey configuration is required");
+
+    return new MemoryWebClient(endpoint, apiKey);
+});
 
 var app = builder.Build();
 
