@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SimplAgent.Shared.Dtos.Contracts;
-using SimplAgent.Web.ApiService.Contracts;
+using SimplAgent.Web.ApiService.Services.AgentFactory;
 
-namespace SimplAgent.Web.ApiService.Endpoints;
+namespace SimplAgent.Web.ApiService.Routes;
 
 public static class AgentsApi
 {

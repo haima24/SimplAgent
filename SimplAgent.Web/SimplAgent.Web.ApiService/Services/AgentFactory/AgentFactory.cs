@@ -3,10 +3,9 @@ using Microsoft.Agents.AI;
 using Microsoft.Extensions.AI;
 using Microsoft.Extensions.Options;
 using SimplAgent.Web.ApiService.Configuration;
-using SimplAgent.Web.ApiService.Contracts;
 using System.ClientModel;
 
-namespace SimplAgent.Core.Implementations;
+namespace SimplAgent.Web.ApiService.Services.AgentFactory;
 
 public class AgentFactory : IAgentFactory
 {

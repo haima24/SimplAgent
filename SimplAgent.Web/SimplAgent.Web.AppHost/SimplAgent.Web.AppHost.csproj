@@ -12,7 +12,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\WebApplication1\SimplAgent.Knowledge.csproj" />
+    <ProjectReference Include="..\..\SimplAgent.Knowledge\SimplAgent.Knowledge.csproj" />
     <ProjectReference Include="..\SimplAgent.Web.ApiService\SimplAgent.Web.ApiService.csproj" />
     <ProjectReference Include="..\SimplAgent.Web.Web\SimplAgent.Web.Web.csproj" />
   </ItemGroup>

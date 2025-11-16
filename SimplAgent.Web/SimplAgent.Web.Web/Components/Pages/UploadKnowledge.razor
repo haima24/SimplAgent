@@ -1,0 +1,88 @@
+﻿@page "/upload"
+@rendermode InteractiveServer
+@using Microsoft.AspNetCore.Components.Forms
+@using SimplAgent.Shared.Dtos.Contracts
+@inject SimpleAgentClient AgentClient
+
+<PageTitle>Upload Documents</PageTitle>
+
+<h1>Upload Documents to Knowledge Memory</h1>
+
+<InputFile OnChange="HandleUpload" multiple="true" accept=".txt" />
+
+@if (UploadItems.Any())
+{
+    <h3 class="mt-3">Upload Status</h3>
+    <ul class="list-group">
+        @foreach (var item in UploadItems)
+        {
+            <li class="list-group-item">
+                <strong>@item.Name</strong> -
+                @if (item.Status == UploadStatus.Uploading)
+                {
+                    <span class="text-warning">Uploading (@item.Progress%)...</span>
+                }
+                else if (item.Status == UploadStatus.Success)
+                {
+                    <span class="text-success">Uploaded ✔</span>
+                }
+                else if (item.Status == UploadStatus.Error)
+                {
+                    <span class="text-danger">Error: @item.Message</span>
+                }
+            </li>
+        }
+    </ul>
+}
+
+@code {
+    private List<UploadItem> UploadItems = new();
+
+    private async Task HandleUpload(InputFileChangeEventArgs e)
+    {
+        var files = e.GetMultipleFiles();
+
+        if (files.Count == 0)
+            return;
+
+        UploadItems.Clear();
+
+        foreach (var file in files)
+        {
+            var uploadItem = new UploadItem
+                {
+                    Name = file.Name,
+                    Status = UploadStatus.Uploading,
+                    Progress = 0
+                };
+
+            UploadItems.Add(uploadItem);
+
+            StateHasChanged();
+
+            try
+            {
+                // UI feedback loop
+                for (int i = 0; i <= 100; i += 20)
+                {
+                    uploadItem.Progress = i;
+                    StateHasChanged();
+                    await Task.Delay(200);
+                }
+
+                await AgentClient.UploadDocumentsAsync(new List<IBrowserFile> { file });
+
+                uploadItem.Status = UploadStatus.Success;
+                uploadItem.Message = "Successfully uploaded";
+            }
+            catch (Exception ex)
+            {
+                uploadItem.Status = UploadStatus.Error;
+                uploadItem.Message = $"Error: {ex.Message}";
+            }
+            StateHasChanged();
+        }
+        await Task.Delay(3000);
+        UploadItems.Clear();
+    }
+}

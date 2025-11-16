@@ -12,7 +12,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplAgent.Web.Web", "Simpl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplAgent.Shared.Dtos", "SimplAgent.Shared.Dtos\SimplAgent.Shared.Dtos.csproj", "{0B076283-782E-46A8-BBDF-1F5BD3C66A19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplAgent.Knowledge", "WebApplication1\SimplAgent.Knowledge.csproj", "{524065B7-58CE-4548-AF33-4C8E3E4DE31B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplAgent.Knowledge", "SimplAgent.Knowledge\SimplAgent.Knowledge.csproj", "{524065B7-58CE-4548-AF33-4C8E3E4DE31B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
