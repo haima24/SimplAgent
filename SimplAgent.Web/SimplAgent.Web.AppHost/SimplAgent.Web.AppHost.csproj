@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <Sdk Name="Aspire.AppHost.Sdk" Version="9.0.0" />
 
@@ -12,6 +12,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\SimplAgent.Knowledge\SimplAgent.Knowledge.csproj" />
     <ProjectReference Include="..\SimplAgent.Web.ApiService\SimplAgent.Web.ApiService.csproj" />
     <ProjectReference Include="..\SimplAgent.Web.Web\SimplAgent.Web.Web.csproj" />
   </ItemGroup>

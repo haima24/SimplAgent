@@ -12,4 +12,10 @@
 	  <ProjectReference Include="..\SimplAgent.Web.ServiceDefaults\SimplAgent.Web.ServiceDefaults.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="Components\Pages\UploadKnowledge.razor">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+    </Content>
+  </ItemGroup>
+
 </Project>

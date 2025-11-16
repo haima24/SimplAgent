@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+	<PropertyGroup>
+		<TargetFramework>net9.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<UserSecretsId>b0fef3a3-afef-4119-840f-d7d17000129d</UserSecretsId>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.KernelMemory.Service.AspNetCore" Version="0.98.250508.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\SimplAgent.Web\SimplAgent.Web.ServiceDefaults\SimplAgent.Web.ServiceDefaults.csproj" />
+	</ItemGroup>
+</Project>
+
