@@ -13,7 +13,21 @@ public class SimpleAgentClient(HttpClient httpClient)
         return response.Content.ReadFromJsonAsAsyncEnumerable<PromptResponse>()!;
     }
 
-    public async Task UploadDocumentsAsync(IList<IBrowserFile> files)
+    public async Task RemoveDocumentAsync(Guid documentId, CancellationToken cancellationToken = default)
+    {
+        var response = await httpClient.DeleteAsync($"api/knowledge/documents/{documentId}", cancellationToken);
+        response.EnsureSuccessStatusCode();
+    }
+
+    public async Task<IEnumerable<DocumentDto>> GetAllDocumentsAsync(CancellationToken cancellationToken = default)
+    {
+        var response = await httpClient.GetAsync("api/knowledge/documents", cancellationToken);
+        response.EnsureSuccessStatusCode();
+        var result = await response.Content.ReadFromJsonAsync<IEnumerable<DocumentDto>>(cancellationToken: cancellationToken);
+        return result ?? Enumerable.Empty<DocumentDto>();
+    }
+
+    public async Task<IEnumerable<DocumentDto>> UploadDocumentsAsync(IList<IBrowserFile> files)
     {
         long maxFileSize = 5 * 1024L * 1024L; // 5 MB
         using var content = new MultipartFormDataContent();
@@ -35,6 +49,8 @@ public class SimpleAgentClient(HttpClient httpClient)
 
         var response = await httpClient.PostAsync($"api/knowledge/upload", content);
         response.EnsureSuccessStatusCode();
+        var result = await response.Content.ReadFromJsonAsync<IEnumerable<DocumentDto>>();
+        return result ?? Enumerable.Empty<DocumentDto>();
     }
 }
 

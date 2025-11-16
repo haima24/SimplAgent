@@ -1,18 +1,14 @@
-﻿namespace SimplAgent.Web.ApiService.Models.Documents;
+﻿namespace SimplAgent.Shared.Dtos.Contracts;
 
-public class Document
+public class DocumentDto
 {
     public Guid Id { get; set; }
 
-    public Document()
-    {
-        CreatedAt = DateTime.UtcNow;
-        UpdatedAt = DateTime.UtcNow;
-    }
-
     public string Name { get; set; } = string.Empty;
+
     public string? KnowledgeDocId { get; set; }
 
     public DateTime CreatedAt { get; set; }
+
     public DateTime UpdatedAt { get; set; }
 }

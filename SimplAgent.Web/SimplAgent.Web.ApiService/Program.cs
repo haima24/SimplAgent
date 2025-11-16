@@ -31,8 +31,6 @@ builder.Services.AddScoped<IKernelMemory>(serviceProvider =>
     return new MemoryWebClient(endpoint, apiKey);
 });
 
-builder.AddServiceDefaults();
-
 builder.Services.AddDbContext<AgentDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 

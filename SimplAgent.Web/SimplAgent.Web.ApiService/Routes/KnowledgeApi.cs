@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using NTG.Agent.Orchestrator.Services.Knowledge;
+using SimplAgent.Shared.Dtos.Contracts;
 
 namespace SimplAgent.Web.ApiService.Routes;
 
@@ -12,15 +13,48 @@ public static class KnowledgeApi
             .WithTags("Knowledge");
 
         // POST /api/knowledge
-        group.MapPost("/upload", AddKnowledge)
+        group.MapPost("/upload", UploadKnowledge)
             .DisableAntiforgery()
-            .WithName("AddKnowledge")
-            .WithDescription("Add knowledge to knowledge memory.")
+            .WithName("UploadKnowledge")
+            .WithDescription("Add knowledge to knowledge memory by uploading a file.")
             .Produces(200)
             .Produces(400);
+
+        group.MapGet("/documents", GetAllDocuments)
+            .WithName("GetAllKnowledgeDocuments")
+            .WithDescription("Retrieve all knowledge documents.")
+            .Produces<IEnumerable<DocumentDto>>(200);
+
+        group.MapDelete("/documents/{documentId}", DeleteDocument)
+            .WithName("DeleteKnowledgeDocument")
+            .WithDescription("Delete a knowledge document by its ID.")
+            .Produces(200)
+            .Produces(404);
     }
 
-    private static async Task<IResult> AddKnowledge(
+    private static async Task<IResult> DeleteDocument(
+        [FromRoute] Guid documentId,
+        [FromServices] IKnowledgeService knowledgeService)
+    {
+        try
+        {
+            await knowledgeService.RemoveDocumentAsync(documentId);
+            return Results.Ok(new { message = "Document deleted successfully." });
+        }
+        catch (KeyNotFoundException)
+        {
+            return Results.NotFound(new { message = "Document not found." });
+        }
+    }
+
+    private static async Task<IResult> GetAllDocuments(
+        [FromServices] IKnowledgeService knowledgeService)
+    {
+        var documents = await knowledgeService.GetAllDocumentsAsync();
+        return Results.Ok(documents);
+    }
+
+    private static async Task<IResult> UploadKnowledge(
         [FromForm] IFormFileCollection files,
         [FromServices] IKnowledgeService knowledgeService)
     {
@@ -29,14 +63,17 @@ public static class KnowledgeApi
             return Results.BadRequest(new { message = "No files uploaded." });
         }
 
+        var documents = new List<DocumentDto>();
+
         foreach (var file in files)
         {
             if (file.Length > 0)
             {
-                await knowledgeService.ImportDocumentAsync(file.OpenReadStream(), file.FileName);
+                var document= await knowledgeService.ImportDocumentAsync(file.OpenReadStream(), file.FileName);
+                documents.Add(document);
             }
         }
 
-        return Results.Ok(new { message = "Files uploaded successfully." });
+        return Results.Ok(documents);
     }
 }

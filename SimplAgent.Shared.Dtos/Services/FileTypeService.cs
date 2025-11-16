@@ -1,5 +1,6 @@
 namespace SimplAgent.Shared.Dtos.Services;
 
+
 /// <summary>
 /// Centralized service for handling file type operations including MIME type detection,
 /// file type categorization, and UI-related file type information.

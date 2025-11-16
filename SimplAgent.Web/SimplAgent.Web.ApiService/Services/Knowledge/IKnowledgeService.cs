@@ -1,7 +1,10 @@
+using SimplAgent.Shared.Dtos.Contracts;
+
 namespace NTG.Agent.Orchestrator.Services.Knowledge;
 
 public interface IKnowledgeService
 {
-    Task<string> ImportDocumentAsync(Stream content, string fileName, CancellationToken cancellationToken = default);
-    Task RemoveDocumentAsync(string documentId, CancellationToken cancellationToken = default);
+    Task<IEnumerable<DocumentDto>> GetAllDocumentsAsync(CancellationToken cancellationToken = default);
+    Task<DocumentDto> ImportDocumentAsync(Stream content, string fileName, CancellationToken cancellationToken = default);
+    Task RemoveDocumentAsync(Guid documentId, CancellationToken cancellationToken = default);
 }
