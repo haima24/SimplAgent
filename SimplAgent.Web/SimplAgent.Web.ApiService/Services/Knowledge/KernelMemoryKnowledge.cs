@@ -4,7 +4,7 @@ using SimplAgent.Shared.Dtos.Contracts;
 using SimplAgent.Shared.Dtos.Services;
 using SimplAgent.Web.ApiService.Data;
 
-namespace NTG.Agent.Orchestrator.Services.Knowledge;
+namespace SimplAgent.Web.ApiService.Services.Knowledge;
 
 public class KernelMemoryKnowledge : IKnowledgeService
 {
@@ -23,10 +23,25 @@ public class KernelMemoryKnowledge : IKnowledgeService
         _agentDbContext = agentDbContext ?? throw new ArgumentNullException(nameof(agentDbContext));
     }
 
+    public async Task<SearchResult> SearchAsync(string query, CancellationToken cancellationToken = default)
+    {
+        SearchResult result;
+        result = await _kernelMemory.SearchAsync(
+                query: query,
+                limit: 3,
+                cancellationToken: cancellationToken);
+
+        if (_logger.IsEnabled(LogLevel.Debug))
+        {
+            _logger.LogDebug("KernelMemoryKnowledge.SearchAsync: {query} => {result}", query, result.ToJson());
+        }
+        return result;
+    }
+
     public async Task<DocumentDto> ImportDocumentAsync(Stream content, string fileName, CancellationToken cancellationToken = default)
     {
         var documentID = await _kernelMemory.ImportDocumentAsync(content, fileName);
-        var document = new SimplAgent.Web.ApiService.Models.Documents.Document
+        var document = new Models.Documents.Document
         {
             Id = Guid.NewGuid(),
             Name = fileName,

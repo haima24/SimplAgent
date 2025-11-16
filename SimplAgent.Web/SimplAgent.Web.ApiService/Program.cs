@@ -1,11 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.KernelMemory;
-using NTG.Agent.Orchestrator.Services.Knowledge;
+using SimplAgent.Shared.Dtos.Contracts;
 using SimplAgent.Web.ApiService.Configuration;
 using SimplAgent.Web.ApiService.Data;
 using SimplAgent.Web.ApiService.Extensions;
 using SimplAgent.Web.ApiService.Routes;
 using SimplAgent.Web.ApiService.Services.AgentFactory;
+using SimplAgent.Web.ApiService.Services.Knowledge;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using NTG.Agent.Orchestrator.Services.Knowledge;
 using SimplAgent.Shared.Dtos.Contracts;
 
 namespace SimplAgent.Web.ApiService.Routes;

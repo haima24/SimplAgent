@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplAgent.Shared.Dtos", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplAgent.Knowledge", "SimplAgent.Knowledge\SimplAgent.Knowledge.csproj", "{524065B7-58CE-4548-AF33-4C8E3E4DE31B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AITools", "AITools", "{0A63ADEA-431A-4DA9-8935-DB2B563EC52B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplAgent.AITools.SimpleTools", "SimplAgent.AITools.SimpleTools\SimplAgent.AITools.SimpleTools.csproj", "{16829A10-E017-419D-8783-D0998945C206}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,8 +48,15 @@ Global
 		{524065B7-58CE-4548-AF33-4C8E3E4DE31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{524065B7-58CE-4548-AF33-4C8E3E4DE31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{524065B7-58CE-4548-AF33-4C8E3E4DE31B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16829A10-E017-419D-8783-D0998945C206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16829A10-E017-419D-8783-D0998945C206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16829A10-E017-419D-8783-D0998945C206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16829A10-E017-419D-8783-D0998945C206}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{16829A10-E017-419D-8783-D0998945C206} = {0A63ADEA-431A-4DA9-8935-DB2B563EC52B}
 	EndGlobalSection
 EndGlobal
