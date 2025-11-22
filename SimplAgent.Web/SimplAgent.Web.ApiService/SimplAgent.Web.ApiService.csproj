@@ -8,6 +8,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+		<ProjectReference Include="..\..\SimplAgent.AITools.SimpleTools\SimplAgent.AITools.SimpleTools.csproj" />
 		<ProjectReference Include="..\..\SimplAgent.Shared.Dtos\SimplAgent.Shared.Dtos.csproj" />
 		<ProjectReference Include="..\SimplAgent.Web.ServiceDefaults\SimplAgent.Web.ServiceDefaults.csproj" />
 	</ItemGroup>

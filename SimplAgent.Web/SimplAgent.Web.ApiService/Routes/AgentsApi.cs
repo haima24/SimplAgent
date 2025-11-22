@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.Agents.AI;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.AI;
+using Microsoft.Extensions.Diagnostics.Latency;
 using SimplAgent.Shared.Dtos.Contracts;
 using SimplAgent.Web.ApiService.Services.AgentFactory;
 
@@ -25,7 +28,15 @@ public static class AgentsApi
     {
         var agent = agentFactory.CreateAIAgent();
 
-        await foreach (var response in agent.RunStreamingAsync(promptRequest.Prompt))
+        var tools = await agentFactory.GetAvailableTools();
+
+        var prompt = agentFactory.BuildTextOnlyPrompt(promptRequest.Prompt);
+
+        var chatOptions = new ChatOptions
+        {
+            Tools = tools
+        };
+        await foreach (var response in agent.RunStreamingAsync(prompt, options: new ChatClientAgentRunOptions(chatOptions)))
         {
             yield return new PromptResponse(response.Text);
         }
