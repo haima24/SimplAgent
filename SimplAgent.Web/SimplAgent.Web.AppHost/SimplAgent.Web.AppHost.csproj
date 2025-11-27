@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\SimplAgent.Knowledge\SimplAgent.Knowledge.csproj" />
+    <ProjectReference Include="..\..\SimplAgent.MCP.Server\SimplAgent.MCP.Server.csproj" />
     <ProjectReference Include="..\SimplAgent.Web.ApiService\SimplAgent.Web.ApiService.csproj" />
     <ProjectReference Include="..\SimplAgent.Web.Web\SimplAgent.Web.Web.csproj" />
   </ItemGroup>

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ModelContextProtocol.AspNetCore" Version="0.4.0-preview.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SimplAgent.AITools.ReportingTool\SimplAgent.AITools.ReportingTool.csproj" />
+    <ProjectReference Include="..\SimplAgent.Web\SimplAgent.Web.ServiceDefaults\SimplAgent.Web.ServiceDefaults.csproj" />
+  </ItemGroup>
+
+</Project>

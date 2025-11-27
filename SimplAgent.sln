@@ -18,6 +18,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AITools", "AITools", "{0A63
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplAgent.AITools.SimpleTools", "SimplAgent.AITools.SimpleTools\SimplAgent.AITools.SimpleTools.csproj", "{16829A10-E017-419D-8783-D0998945C206}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplAgent.AITools.ReportingTool", "SimplAgent.AITools.ReportingTool\SimplAgent.AITools.ReportingTool.csproj", "{BFF8167F-5FAC-481A-B212-81B29EF0A2BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplAgent.MCP.Server", "SimplAgent.MCP.Server\SimplAgent.MCP.Server.csproj", "{2C83CD43-4FCC-4B62-958A-EB439ACF7EAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -52,11 +56,20 @@ Global
 		{16829A10-E017-419D-8783-D0998945C206}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16829A10-E017-419D-8783-D0998945C206}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16829A10-E017-419D-8783-D0998945C206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF8167F-5FAC-481A-B212-81B29EF0A2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF8167F-5FAC-481A-B212-81B29EF0A2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF8167F-5FAC-481A-B212-81B29EF0A2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF8167F-5FAC-481A-B212-81B29EF0A2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C83CD43-4FCC-4B62-958A-EB439ACF7EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C83CD43-4FCC-4B62-958A-EB439ACF7EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C83CD43-4FCC-4B62-958A-EB439ACF7EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C83CD43-4FCC-4B62-958A-EB439ACF7EAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{16829A10-E017-419D-8783-D0998945C206} = {0A63ADEA-431A-4DA9-8935-DB2B563EC52B}
+		{BFF8167F-5FAC-481A-B212-81B29EF0A2BA} = {0A63ADEA-431A-4DA9-8935-DB2B563EC52B}
 	EndGlobalSection
 EndGlobal

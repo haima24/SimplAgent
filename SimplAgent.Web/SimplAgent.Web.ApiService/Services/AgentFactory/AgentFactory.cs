@@ -2,6 +2,7 @@ using Azure.AI.OpenAI;
 using Microsoft.Agents.AI;
 using Microsoft.Extensions.AI;
 using Microsoft.Extensions.Options;
+using ModelContextProtocol.Client;
 using SimplAgent.AITools.SimpleTools;
 using SimplAgent.Shared.Dtos.Contracts;
 using SimplAgent.Web.ApiService.Configuration;
@@ -45,14 +46,36 @@ public class AgentFactory : IAgentFactory
             new KnowledgeTool(_knowledgeService).AsAITool()
         };
 
-        //// 2. Add MCP tools (from remote MCP server)
-        //if (!string.IsNullOrEmpty(agent.McpServer?.Trim()))
-        //{
-        //    var mcpTools = await GetMcpToolsAsync(agent.McpServer);
-        //    allTools.AddRange(mcpTools);
-        //}
+        // 2. Add MCP tools (from remote MCP server)
+        var mcpTools = await GetMcpToolsAsync();
+        allTools.AddRange(mcpTools);
+
         await Task.CompletedTask;
         return allTools;
+    }
+
+    private async Task<IEnumerable<AITool>> GetMcpToolsAsync()
+    {
+        var endpoint = Environment.GetEnvironmentVariable($"services__mcpserver__https__0")
+        ?? Environment.GetEnvironmentVariable($"services__mcpserver__http__0");
+
+        if (string.IsNullOrEmpty(endpoint))
+        {
+            throw new InvalidOperationException("MCP server endpoint is not configured.");
+        }
+
+        var transport = new HttpClientTransport(new HttpClientTransportOptions
+        {
+            Name = "simplmcpserver",
+            Endpoint = new Uri(endpoint),
+            ConnectionTimeout = TimeSpan.FromMinutes(2)
+        });
+
+        var mcpClient = await McpClient.CreateAsync(transport);
+
+        var tools = await mcpClient.ListToolsAsync().ConfigureAwait(false);
+
+        return tools.Cast<AITool>();
     }
 
     public string BuildTextOnlyPrompt(string userPrompt) =>
