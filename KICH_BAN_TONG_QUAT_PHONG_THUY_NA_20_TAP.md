@@ -1,62 +1,70 @@
 # KỊCH BẢN TỔNG QUÁT (MASTER BIBLE & SERIES OVERVIEW)
-# TỰA ĐỀ: THẦY PHONG THỦY NA - LONG MẠCH KỲ ÁN
+# TỰA ĐỀ: THẦY PHONG THỦY PHAN NA - LONG MẠCH KỲ ÁN
 *(Kịch truyền thanh điện ảnh dài kỳ - Series 20 Tập x 30 Phút)*
 
 ---
 
-## 1. THÔNG TIN DỰ ÁN & ĐỊNH VỊ PHONG CÁCH
+## 1. THÔNG TIN DỰ ÁN & Ý TƯỞNG CỐT LÕI
 
-* **Tựa đề thương mại:** **THẦY PHONG THỦY NA: LONG MẠCH KỲ ÁN**
-* **Thể loại:** Kịch truyền thanh điện ảnh (Cinematic Audio Drama), Huyền bí - Phong thủy chính tông, Linh dị đô thị & Kỳ án điều tra, Hành trình tu dưỡng tâm tính & Nhân quả báo ứng.
-* **Quy mô:** **20 Tập** (Mỗi tập thành phẩm từ **28 – 35 phút**, thoại dày dặn, giàu tầng lớp âm thanh Foley, độc thoại nội tâm và đối thoại kịch tính).
-* **Triết lý xuyên suốt cốt truyện:**
-  > *"Nhất mệnh, nhì vận, tam phong thủy, tứ tích âm đức, ngũ độc thư."*  
-  > Phong thủy chính tông không phải là thứ ma thuật huyền hoặc để làm giàu sau một đêm, càng không phải bùa phép đổi trắng thay đen. Phong thủy là khoa học về môi trường, trường khí, vi khí hậu và đạo hòa hợp giữa Con Người với Đất Trời. Kẻ mang tâm ác thì đất ngọc cũng hóa vũng lầy; người giữ đức dày thì chốn hung hiểm cũng trổ hoa an lạc.
-
-* **Bối cảnh trải dài đất nước:**
-  * Làng quê cổ Bắc Bộ rêu phong với những giếng ngọc, đình miếu cổ kính và long mạch ngầm sông Hồng.
-  * Đô thị phồn hoa hiện đại ngột ngạt bê tông sắt thép, nơi những tòa chọc trời tạo ra các thế sát vô hình: *Thiên Trảm Sát, Thương Sát, Phản Quang Sát, Ngũ Quỷ Vận Tài*.
-  * Vùng cao nguyên Tây Bắc hùng vĩ, núi non trùng điệp ẩn giấu huyệt vị đế vương.
-  * Vùng sông nước Cửu Long huyền bí với những nhánh sông chia cắt sinh - tử khí.
+* **Tựa đề thương mại:** **THẦY PHONG THỦY PHAN NA: LONG MẠCH KỲ ÁN**
+* **Thể loại:** Kịch truyền thanh điện ảnh (Cinematic Audio Drama), Huyền bí - Phong thủy chính tông, Linh dị đô thị & Kỳ án trắc địa, Hành trình tu dưỡng tâm tính & Nữ chủ kiên cường.
+* **Thời lượng:** **20 Tập** (Mỗi tập dài chuẩn **28 – 35 phút** audio thành phẩm, giàu chi tiết thoại, độc thoại nội tâm sâu sắc, tri thức phong thủy cổ truyền chuẩn xác và thiết kế âm thanh Foley 48kHz sống động).
+* **Ý tưởng cốt lõi & Sự độc đáo:**
+  * Giới phong thủy từ xưa đến nay luôn mang nặng định kiến phong kiến: *"Nữ tử bất năng nhập địa lý"* (Phụ nữ không được học và hành nghề địa lý phong thủy vì sợ làm ô uế long mạch).
+  * **Phan Na** xuất hiện như một hiện tượng phá bỏ mọi rào cản cổ hủ đó bằng thực tài, sự nhạy cảm bẩm sinh với khí trường tự nhiên, lòng trắc ẩn bao la và sự kiên cường sắt đá của một người phụ nữ Việt Nam.
+  * Triết lý xuyên suốt:
+    > *"Nhất mệnh, nhì vận, tam phong thủy, tứ tích âm đức, ngũ độc thư."*  
+    > Phong thủy chân chính không phải là bùa phép tà ma để đổi trắng thay đen hay đoạt tài trục lợi, mà là nghệ thuật hòa hợp giữa Thiên - Địa - Nhân. Kẻ tâm ác thì huyệt đế vương cũng hóa mồ chôn; người giữ đức dày thì chốn hung hiểm cũng trổ hoa an lạc.
 
 ---
 
-## 2. HỆ THỐNG NHÂN VẬT CHÍNH & VỆ TINH
+## 2. HỆ THỐNG NHÂN VẬT ĐẦY ĐỦ
 
-### 1. Nhân vật trung tâm: NGUYỄN AN NA (Thầy Na)
-* **Xuất thân & Tính cách:** Sinh ra tại một vùng gò đồi trung du, Na có bẩm sinh đôi mắt mang dị biệt khí trường (có thể cảm nhận độ đậm nhạt của âm dương khí mà mắt thường không thấy). Thuở nhỏ tính tình bướng bỉnh, tự tôn, thông minh xuất chúng nhưng háo thắng.
+### 1. Nhân vật trung tâm: NỮ THẦY PHONG THỦY PHAN NA
+* **Lai lịch & Ngoại hình:**
+  * Sinh ra trong một gia đình nghèo ở vùng gò đồi trung du Bắc Bộ. Phan Na từ nhỏ đã mang đôi mắt dị biệt (Âm Dương Khí Nhãn) – có thể nhìn thấy dòng chảy sinh khí (màu vàng ánh kim) và sát khí (màu xám đen/đỏ đục) trong tự nhiên.
+  * Vẻ ngoài thanh thoát, mảnh mai, thường mặc áo sơ mi giản dị hoặc áo lam cổ truyền, tóc búi gọn gàng sau gáy, ánh mắt sáng ngời và điềm tĩnh trước mọi biến cố.
 * **Vòng cung phát triển (Character Arc qua 4 giai đoạn):**
-  * *Tập 1 – 4 (Thiếu niên ngộ đạo):* Trải qua đại nạn gia đình tan nát do cha bị kẻ xấu lừa xây nhà trên thế đất "Trảm Đầu Sát". Được Sư phụ Tùng Thiện cứu mạng và dạy dỗ, Na bắt đầu học đạo từ việc gánh nước, đo hướng gió, đọc cổ thư.
-  * *Tập 5 – 9 (Xuất sư - Hồng trần tôi luyện):* Bước vào các đô thị lớn hành nghề. Sự ngạo nghễ của tuổi trẻ khiến Na rơi vào cái bẫy "cải mệnh giúp người giàu bất lương", dẫn đến bị nghiệp lực phản phệ nặng nề, suýt mù mắt.
-  * *Tập 10 – 15 (Trầm luân & Tầm long vạn dặm):* Sư phụ hy sinh tính mạng để bảo vệ bảo vật phong thủy và phong ấn tà huyệt. Na ôm chiếc la kinh cổ và cây trượng tầm long đi khắp non sông, học hỏi phong thủy dân gian, tôi luyện tâm thức bao dung.
-  * *Tập 16 – 20 (Đại tông sư - Chân ngộ thiên đạo):* Đủ bản lĩnh đối đầu với Hắc Địa Sư Vô Danh trong ván cờ phong thủy quốc thổ, dùng đức hạnh và trí tuệ hóa giải tai ương, trở thành một bậc thầy phong thủy chân chính sống khiêm hòa.
+  * *Tập 1 – 4 (Cô bé mồ côi ngộ đạo):* Năm 12 tuổi, cha mẹ mất trong thảm họa căn nhà phạm "Trảm Đầu Sát". Na bị họ hàng xua đuổi vì coi là "đứa trẻ mang điềm gở". Được Sư phụ Tùng Thiện thu nhận, Na học cách vượt qua mặc cảm, rèn luyện định lực và tiếp thu tinh hoa phái Thấu Thiên Cơ.
+  * *Tập 5 – 9 (Nữ thầy phong thủy dấn thân hồng trần):* Rời núi xuống thành phố lớn hành nghề. Đối mặt với sự ngờ vực, coi thường của các đại gia vì Na là "phụ nữ trẻ tuổi". Bằng tài năng giải mã các thế sát hiện đại (*Thiên Trảm Sát, Thương Sát*), cô khiến giới tài phiệt nể sợ nhưng cũng rơi vào cái bẫy nghiệp lực phản phệ suýt mất đi thị lực.
+  * *Tập 10 – 15 (Trầm luân & Tầm long vạn dặm):* Sau cái chết bi tráng của Sư phụ để bảo vệ bí kíp cổ, Phan Na một mình gánh vác sứ mệnh phái môn. Cô cùng người bạn đồng hành Trần Lam rong ruổi khắp ba miền, tôi luyện tâm thức bao dung và thấu hiểu nỗi khổ nhân gian.
+  * *Tập 16 – 20 (Đại Tông Sư - Chân ngộ thiên đạo):* Dùng bản lĩnh và đức hạnh cứu vãn huyết mạch non sông trước âm mưu tà độc của Hắc Địa Sư, trở thành bậc thầy phong thủy chân chính được người người kính trọng.
+
+---
 
 ### 2. Tuyến nhân vật đồng hành & dẫn dắt
-* **SƯ PHỤ TÙNG THIỆN (72 tuổi):** Truyền nhân đời thứ 18 phái phong thủy Thấu Thiên Cơ. Vẻ ngoài mộc mạc như lão nông nhưng tinh thông thiên văn địa lý, giữ trọn tâm đức nhà thầy. Giọng nói trầm sâu, uy nghiêm, từ tốn.
-* **LAM (26 tuổi - Kỹ sư địa chất & Trắc địa công trình):** Cô gái hiện đại, theo chủ nghĩa duy vật và dữ liệu khoa học. Ban đầu xem Na là kẻ mê tín dị đoan, nhưng qua các vụ sụt lún, tai nạn hầm lò kỳ lạ mà Na giải mã bằng trường khí, cô trở thành người bạn đồng hành tin cậy, bổ sung góc nhìn khoa học địa vật lý cho Na.
-* **BÁC BA ĐƯỚC (62 tuổi - Lão ngư phủ kỳ cựu miền Tây):** Người thông thuộc từng nhánh sông rạch ngầm, từng bãi bồi tụ khí. Tính tình hào sảng, chất phác, là chỗ dựa tinh thần cho Na trong những ngày lưu lạc phương Nam.
+* **SƯ PHỤ TÙNG THIỆN (72 tuổi):** Truyền nhân đời thứ 18 phái phong thủy Thấu Thiên Cơ. Một bậc chân tu đắc đạo, không màng danh lợi. Ông là người duy nhất phá bỏ hủ tục ngàn đời để truyền thụ toàn bộ tuyệt kỹ phong thủy cho một cô gái (Phan Na) vì nhận thấy tâm tính trong sáng và đại trí của cô.
+* **TRẦN LAM (Nam, 28 tuổi - Kỹ sư địa chất & Trắc địa công trình):**
+  * Chàng trai thông minh, thẳng thắn, tốt nghiệp ngành địa chất công trình, tôn thờ số liệu máy móc và khoa học thực nghiệm.
+  * Ban đầu coi việc Phan Na xem phong thủy là mê tín hoang đường, nhưng sau hàng loạt vụ sụt lún, rò rỉ khí ngầm được Na cảnh báo chuẩn xác, anh trở thành người bạn đồng hành tin cậy nhất của cô. Sự kết hợp giữa trực giác khí trường của Phan Na và công nghệ trắc địa vệ tinh 3D của Lam tạo nên bộ đôi phá giải phong thủy kỳ tài.
+* **BÁC BA ĐƯỚC (62 tuổi - Lão ngư phủ kỳ cựu miền Tây):**
+  * Người đàn ông Nam Bộ hào sảng, chất phác, xem Phan Na như con gái ruột. Ông am hiểu từng nhánh sông rạch ngầm, con nước lớn ròng, hỗ trợ Phan Na phá giải trận đồ thủy mạch tại vùng đồng bằng sông Cửu Long.
 
-### 3. Tuyến phản diện & Thử thách nhân tâm
-* **HẮC ĐỊA SƯ TRẦN HẮC MIÊU (Vô Danh Thầy):** Từng là sư huynh đệ đồng môn với Sư phụ Tùng Thiện nhưng bội sư phản đạo, chạy theo dục vọng kim tiền. Hắn chuyên dùng tà pháp như *Ngũ Quỷ Đoạt Mệnh, Huyết Long Yểm, Đoạt Vận Trận* để phục vụ các tài phiệt đen tối trục lợi bất chính.
-* **CÁC THÂN CHỦ ĐÔ THỊ:** Những đại gia bất động sản tham lam đào bới nghĩa trang, giám đốc tham ô trốn tránh nghiệp báo, và cả những người dân nghèo vô tội bị cuốn vào bẫy phong thủy sát khí.
+---
+
+### 3. Tuyến phản diện & Xung đột kịch tính
+* **HẮC ĐỊA SƯ TRẦN HẮC MIÊU (Vô Danh Thầy):**
+  * Sư huynh đệ đồng môn phản bội của Sư phụ Tùng Thiện. Hắn thông minh xuất chúng nhưng lòng dạ hiểm độc, tôn thờ thuyết "Đoạt thiên địa tạo hóa vi kỷ dụng" (Cướp đoạt vận khí đất trời phục vụ bản thân).
+  * Hắn lập mưu đồ suốt 30 năm nhằm đánh cắp sinh khí của các nhánh long mạch trọng điểm trên toàn quốc để mưu cầu trường thọ và quyền lực hắc ám. Hắn luôn coi thường Phan Na vì cô là phụ nữ, và đó chính là điểm sơ hở chí mạng của hắn.
+* **CÁC THÂN CHỦ ĐÔ THỊ & TÀI PHIỆT THAM LAM:** Những kẻ sẵn sàng phá hủy di tích, bạt đồi đào núi, yểm sát khí ám hại đối thủ để tích lũy tài sản, đại diện cho lòng tham không đáy của xã hội hiện đại.
 
 ---
 
 ## 3. THIẾT KẾ ÂM THANH ĐIỆN ẢNH (SOUND DESIGN BIBLE)
 
-Để mang lại trải nghiệm kịch truyền thanh điện ảnh rùng mình và lôi cuốn, hệ thống âm thanh cần được phân tầng chuẩn xác 48kHz:
+Chuẩn hóa $48{,}000 \text{ Hz}$, 320 kbps với 3 tầng âm thanh đặc trưng:
 
 1. **Âm thanh Dụng cụ Phong thủy (Signature Foley):**
-   * *Kim La Kinh xoay:* Tiếng kim đồng ma sát nhẹ, tiếng rung rè giần giật khi chạm sát khí cực mạnh.
-   * *Thước Tầm Long (Dowsing Rods):* Tiếng kim loại xoay tít vù vù trong không khí rồi chụm lại chỉ thẳng huyệt hung.
-   * *Khánh Đồng & Chuông Xoay Tây Tạng:* Âm ba trầm vang ngân dài, lọc sạch tạp âm, tạo cảm giác tĩnh tại thiền định khi trấn trạch.
-   * *Bột Chu Sa & Gỗ Đào:* Tiếng rải bột sột soạt, tiếng gõ đanh thép của kiếm gỗ đào khi chém sát.
+   * *Kim La Kinh ngọc cổ của Phan Na:* Tiếng kim đồng xoay rột rẹt, tiếng rung giần giật sắc lẹm khi phát hiện hắc khí sát tinh.
+   * *Thước Tầm Long bằng đồng (Dowsing Rods):* Tiếng rít nhẹ trong gió khi hai thanh đồng tự động quay tít rồi chụm đầu chỉ thẳng huyệt hung.
+   * *Chuông Gió Phong Linh 6 Ống & Khánh Đồng:* Âm sắc trong trẻo, thanh tao, biểu trưng cho sự hiện diện tĩnh tại của Phan Na khi hóa giải trường khí độc.
+   * *Bột Chu Sa & Bùa Chỉ Đỏ:* Tiếng rải bột sột soạt trên nền gạch, tiếng vung dải lụa ngũ hành trong không khí.
 
-2. **Âm thanh Trường Khí & Môi Trường Tự Nhiên (Ambience & Sát Khí):**
-   * *Thiên Trảm Sát:* Tiếng gió rít xé toạc qua khe hẹp giữa hai tòa nhà chọc trời, âm thanh như lưỡi dao cắt qua da thịt.
-   * *Thủy Kiếp (Xung Sát):* Tiếng cống ngầm sủi bọt ùng ục, tiếng nước chảy ngược trong đêm khuya tanh tưởi.
-   * *Long Mạch Thức Giấc:* Âm siêu trầm (Sub-bass rumble 30–50Hz) rung chuyển mặt đất, tiếng rễ cây rừng cọ xát ken két.
-   * *Tiếng côn trùng ngưng bặt:* Dấu hiệu sát khí bao trùm, tạo khoảng lặng kịch tính (Negative Cue).
+2. **Âm thanh Trường Khí & Môi Trường (Ambience & Sát Khí):**
+   * *Thiên Trảm Sát:* Âm thanh gió rít chói tai như lưỡi cưa cắt đôi không gian giữa hai khối bê tông cao ốc.
+   * *Thủy Kiếp (Xung Sát):* Tiếng nước cống ngầm sủi bọt tanh hôi, tiếng dòng xoáy ngầm cuộn xiết nguy hiểm.
+   * *Long Mạch Rung Chuyển:* Âm siêu trầm (Sub-bass Rumble 35Hz) làm rung chuyển mặt đất khi địa mạch thức giấc.
+   * *Khoảng lặng kịch tính (Negative Cue):* Tiếng gió, tiếng côn trùng đột ngột tắt lịm 1 giây trước khi nguy hiểm ập tới.
 
 ---
 
@@ -65,132 +73,131 @@
 
 ### ◈ PHẦN 1: KHỞI DUYÊN & NGỘ ĐẠO (Tập 1 – 4)
 
-* **TẬP 1: THẾ ĐẤT TRẢM ĐẦU VÀ BIẾN CỐ TUỔI THƠ**
-  * *Bối cảnh:* Làng ven sông Đáy, năm Na 12 tuổi.
-  * *Nội dung:* Gia đình Na xây căn nhà khang trang đầu tiên. Một thầy phong thủy lạ mặt chỉ điểm hướng cửa chính đâm thẳng vào ngã ba sông có dòng nước xoáy dữ tợn (*Thương Sát kết hợp Trảm Đầu Thủy*). Chưa đầy trăm ngày, tai họa ập đến: cha Na gặp tai nạn đò lật mất xác, mẹ suy sụp hóa điên. Trong đêm mưa giông, cậu bé Na với đôi mắt lạ lùng nhìn thấy một luồng hắc khí đen ngòm cuộn quanh nóc nhà. Giữa lúc hiểm nghèo, một ông lão chống gậy trúc bước vào làng.
-  * *Key Audio:* Tiếng búa đập móng nhà, tiếng nước lũ cuộn gầm gào, tiếng khóc ai oán của người mẹ, tiếng gậy trúc điểm nhẹ xuống bậc thềm phát ra âm vang làm tan biến tiếng gió hú.
+* **TẬP 1: THẾ ĐẤT TRẢM ĐẦU VÀ NƯỚC MẮT TUỔI THƠ**
+  * *Bối cảnh:* Ngôi làng ven sông Đáy, năm Phan Na 12 tuổi.
+  * *Nội dung:* Gia đình Na ky cóp xây ngôi nhà ngói đầu tiên. Một thầy địa lý lạ mặt chỉ điểm hướng cổng chính đâm thẳng vào ngã ba sông có dòng nước xoáy dữ tợn (*Thương Sát kết hợp Trảm Đầu Thủy*). Chưa đầy 100 ngày sau khi khánh thành, thảm kịch ập đến: cha Na bị đò lật mất xác, mẹ suy sụp phát điên rồi qua đời. Cô bé Na với đôi mắt bẩm sinh nhìn thấy luồng hắc khí đen ngòm nuốt chửng ngôi nhà. Dân làng mê tín coi cô là "sao chổi", xua đuổi cô bé trong đêm mưa bão. Đúng lúc kiệt sức bên gốc đa đầu làng, một bóng áo nâu sòng xuất hiện – Sư phụ Tùng Thiện đỡ cô bé dậy.
+  * *Key Audio:* Tiếng búa đập móng nhà, tiếng nước lũ cuộn gầm gào, tiếng sấm sét nổ xé trời, tiếng gậy trúc điểm nhẹ xuống nền đá tạo âm vang làm tan biến tiếng mưa gió.
 
-* **TẬP 2: BÀI HỌC ĐẦU TIÊN VỀ LA KINH VÀ GIÓ NƯỚC**
-  * *Bối cảnh:* Thảo am trên đỉnh núi Yên Tử của Sư phụ Tùng Thiện.
-  * *Nội dung:* Na được Sư phụ thu nhận. Cậu khao khát học bùa chú để trả thù kẻ hại gia đình mình, nhưng Sư phụ chỉ bắt gánh nước, nhóm củi, và hàng giờ ngồi yên lắng nghe tiếng suối reo, tiếng gió lùa qua tán thông. Sư phụ dạy Na bài học vỡ lòng: *"Phong là gió, Thủy là nước. Muốn hiểu đất, trước tiên phải làm rỗng tâm mình"*. Na lần đầu chạm tay vào chiếc La Kinh cổ Thấu Thiên Cơ và nghe được nhịp đập của quả đất.
-  * *Key Audio:* Tiếng suối róc rách, tiếng lá thông xào xạc, tiếng kim la kinh rung rè khi Na tập tập trung định lực, giọng đọc khẩu quyết cổ xưa trầm hùng của Sư phụ.
+* **TẬP 2: NỮ NHI VÀ CHIẾC LA KINH ĐẦU ĐỜI**
+  * *Bối cảnh:* Thảo am trên đỉnh núi Yên Tử bảng lảng mây sương.
+  * *Nội dung:* Na được Sư phụ đưa về nuôi dưỡng. Mang trong lòng nỗi đau mất cha mẹ, cô nằng nặc đòi học bùa chú để tìm kẻ đã hại gia đình mình. Nhưng suốt hai năm ròng, Sư phụ chỉ giao cho Na những việc tưởng như vô bổ: gánh nước suối, đun củi thông, ngồi thiền lắng nghe tiếng gió qua kẽ lá. Sư phụ dạy cô: *"Người đời khinh phụ nữ không biết phong thủy, nhưng đất mẹ vốn là mang tính Âm dung dưỡng vạn vật. Muốn hiểu đất, tâm con phải phẳng lặng như mặt nước"*. Đêm trăng rằm, Sư phụ trao cho Na chiếc La Kinh ngọc cổ đời Trần, kim la bàn bỗng reo lên một tiếng thanh thoát lạ kỳ.
+  * *Key Audio:* Tiếng gáo dừa múc nước suối róc rách, tiếng lá thông reo vi vu lạnh buốt, tiếng kim la kinh ngân vang trong trẻo, giọng giảng giải cổ pháp trầm hùng của Sư phụ.
 
 * **TẬP 3: GIẾNG CỔ TRẤN HỒ CỦA LÀNG RÊU**
-  * *Bối cảnh:* Ngôi làng cổ bị hạn hán và dịch bệnh gia súc kỳ lạ.
-  * *Nội dung:* Sư phụ dẫn Na đi thực địa lần đầu. Dân làng vì đào giếng mới trúng "Mắt Rồng" khiến giếng cổ sủi bùn đen tanh hôi. Na dùng linh cảm phát hiện ra mạch nước ngầm bị chèn bởi rác rưởi và đá tảng uế tạp. Cậu học cách dùng ngũ hành chuyển hóa, dời vị trí giếng và khai thông thủy mạch, mang lại nguồn nước trong vắt cứu cả làng. Na hiểu ra niềm vui của việc dùng phong thủy cứu người.
-  * *Key Audio:* Tiếng gầu múc nước va thành giếng đá, tiếng đất đá sạt lở dưới đáy sâu, tiếng nước ngầm phun trào thanh thoát, tiếng reo hò của dân làng.
+  * *Bối cảnh:* Làng cổ vùng trung du bị dịch bệnh gia súc và sụt lún nghiêm trọng.
+  * *Nội dung:* Lần đầu tiên Sư phụ cho Phan Na xuống núi thực địa. Trưởng làng tỏ thái độ nghi ngại khi thấy một cô bé đi xem phong thủy. Bằng đôi mắt nhạy cảm khí trường, Na phát hiện dân làng vì tranh chấp nguồn nước đã đào một giếng mới đâm trúng "Mắt Rồng" – huyệt mạch tụ thủy của ngôi làng cổ, làm xì ra bùn đen tanh hôi. Na dùng ngũ hành sinh khắc, chỉ điểm lấp giếng hung, khơi thông rãnh đá dẫn nước trong từ núi về hồ bán nguyệt. Khi dòng nước trong vắt tràn về, dân làng cúi đầu thán phục tài năng của cô gái trẻ.
+  * *Key Audio:* Tiếng gầu múc nước va thành giếng đá vang cộp cộp, tiếng bùn sôi ùng ục, tiếng nước suối mới chảy róc rách thanh mát, tiếng trầm trồ thán phục của dân làng.
 
-* **TẬP 4: BÓNG MA TRONG RỪNG TRÚC VÀ LỜI CẢNH BÁO**
-  * *Bối cảnh:* Rừng trúc ranh giới giữa chính phái và tà địa.
-  * *Nội dung:* Trong một đêm tuần tra long mạch, Na bắt gặp một bóng đen khoác áo tơi đang đào trộm một ngôi mộ kết để lấy tro cốt luyện tà khí. Na bồng bột xông ra định bắt kẻ ác nhưng suýt bị tà thuật chấn gãy kinh mạch. Sư phụ kịp thời xuất hiện đẩy lùi kẻ thù. Kẻ đó chính là đệ tử phản đồ năm xưa của phái Thấu Thiên Cơ. Sư phụ trao cho Na chiếc La Kinh và dặn: *"Thời gian của ta không còn nhiều, con đường của con giờ mới thực sự bắt đầu"*.
-  * *Key Audio:* Tiếng thân trúc va vào nhau kẽo kẹt rợn người, tiếng cuốc đào đất trong đêm, tiếng chú thuật trầm đục ma quái, tiếng chuông đồng xua tan chướng khí.
+* **TẬP 4: BÓNG ĐEN TRONG RỪNG TRÚC VÀ LỜI CẢNH BÁO**
+  * *Bối cảnh:* Rừng trúc ranh giới giữa chính phái và tà địa trong đêm mưa phùn.
+  * *Nội dung:* Trong một chuyến tuần tra địa khí, Phan Na phát hiện dấu vết đào bới một ngôi mộ kết trăm năm. Một bóng đen khoác áo tơi đang dùng bột xương động vật yểm vào huyệt để luyện tà khí. Na bốc đồng lao ra ngăn chặn, suýt bị tà thuật chấn gãy kinh mạch. Sư phụ Tùng Thiện kịp thời xuất hiện, dùng gậy trúc phá tan sát khí, bức kẻ áo tơi phải lộ diện một góc mặt có vết sẹo chữ thập – chính là Trần Hắc Miêu. Kẻ thù cười gằn bỏ lại lời cảnh báo trước khi biến mất. Sư phụ nhìn Na đầy lo lắng: thời cơ cô phải tự mình đối mặt với bão giông sắp đến.
+  * *Key Audio:* Tiếng thân trúc va vào nhau kẽo kẹt rợn người, tiếng cuốc chim bập vào đá sỏi, tiếng chuông đồng trừ tà vang dội, tiếng thở dốc nghẹn ngào vì kinh hãi của Phan Na.
 
 ---
 
 ### ◈ PHẦN 2: XUẤT SƯ & HỒNG TRẦN KỲ ÁN (Tập 5 – 9)
 
-* **TẬP 5: THIÊN TRẢM SÁT Ở TOÀ CAO ỐC THỦ THIÊM**
-  * *Bối cảnh:* Trung tâm tài chính hiện đại ngột ngạt.
-  * *Nội dung:* Na rời núi xuống thành phố lớn. Cậu được một tổng giám đốc tập đoàn mời xem xét tòa nhà 40 tầng liên tục xảy ra các vụ nhảy lầu bí ẩn. Na phát hiện tòa nhà nằm ngay khe hẹp gió giữa hai tòa cao ốc lân cận, tạo thành thế *Thiên Trảm Sát* như chiếc đao trời bổ xuống. Tại đây, Na đụng độ Lam – nữ kỹ sư địa chất đang đo đạc độ rung của móng cọc. Hai tư tưởng Đông – Tây va chạm nảy lửa trước khi cùng phát hiện ra nguyên nhân cộng hưởng trường khí chết người.
-  * *Key Audio:* Tiếng gió rít chói tai giữa khe cao ốc, tiếng còi xe đô thị vọng lên mờ ảo, tiếng máy đo địa chấn kêu tít tít dồn dập, tiếng kính vỡ toang do áp lực gió.
+* **TẬP 5: THIÊN TRẢM SÁT Ở TÒA CAO ỐC THỦ THIÊM**
+  * *Bối cảnh:* Khu trung tâm tài chính hiện đại ngột ngạt bê tông và kính cường lực.
+  * *Nội dung:* Phan Na tròn 22 tuổi, xuất sư xuống thành phố lớn. Cô được một chủ tịch tập đoàn địa ốc cầu cứu vì tòa nhà 40 tầng mới xây liên tiếp xảy ra tai nạn bí hiểm. Tại đây, Na gặp Trần Lam – chàng kỹ sư địa chất đang dùng máy laser đo độ nghiêng móng cọc. Lam coi Na là kẻ mê tín dị đoan kiếm tiền lừa đảo. Nhưng Na lạnh lùng chỉ ra: khe hẹp giữa hai tòa nhà lân cận tạo thành một luồng "Thiên Trảm Sát" như đao trời chém thẳng vào cửa sổ phòng làm việc, biến dao động gió thành hạ âm giết người. Lam sững sờ khi dữ liệu máy đo địa chấn của anh hoàn toàn trùng khớp với lời phán của Na!
+  * *Key Audio:* Tiếng gió rít chói tai xé toạc qua khe hai tòa nhà cao tầng, tiếng kính rung bần bật, tiếng còi xe inh ỏi vọng từ dưới đường, tiếng máy đo laser tít tít dồn dập.
 
 * **TẬP 6: MÊ CUNG NGHĨA TRANG VÀ MỘ KẾT PHÁT MÁU**
-  * *Bối cảnh:* Một dự án khu dân cư cao cấp xây dựng đè lên nghĩa trang cũ.
-  * *Nội dung:* Chủ đầu tư bất chấp di dời các ngôi mộ cổ khiến công trường liên tục phát hỏa và máy xúc gãy cần cẩu. Na phát hiện một ngôi "Mộ kết chu sa" cực kỳ quý hiếm bị máy xúc chém đứt long mạch, máu từ lòng đất ứa ra rỉ đỏ bùn. Kẻ chủ mưu không nghe lời can ngăn của Na, cố tình đổ bê tông bít miệng huyệt, chuốc lấy thảm họa kinh hoàng ngay trong đêm rằm.
-  * *Key Audio:* Tiếng động cơ máy xúc gầm rú rồi khựng lại chết máy, tiếng bùn nhão sôi ùng ục, tiếng quạ kêu thảng thốt xé toạc màn đêm nghĩa địa hoang tàn.
+  * *Bối cảnh:* Dự án khu đô thị sinh thái xây lấn lên khu nghĩa địa hoang phế ven đô.
+  * *Nội dung:* Nhà thầu vì tiến độ đã ép công nhân ủi phẳng khu mồ mả cổ bất chấp cảnh báo. Hàng loạt máy xúc bị lật, công nhân lâm bệnh lạ. Lam mời Na đến khảo sát địa tầng. Na phát hiện một ngôi mộ kết chu sa cực hiếm nằm trên trục long mạch đất bồi. Tên giám đốc độc ác ngầm sai người đổ bê tông bít chặt miệng huyệt trong đêm nhằm ém nhẹm. Đúng nửa đêm, áp suất khí lòng đất nổ tung lớp bê tông tươi, máu đất đỏ au phun trào cuốn phăng lán trại. Phan Na phải lập đàn bình ổn long mạch cứu sống hàng chục công nhân bị mắc kẹt.
+  * *Key Audio:* Tiếng động cơ máy xúc gầm rú rồi khựng lại chết máy, tiếng nổ bụp của lớp bê tông nứt toác, tiếng bùn lỏng đỏ lòm phun trào sủi bọt, tiếng Phan Na niệm chú đanh thép uy nghi giữa đêm đen.
 
 * **TẬP 7: CẠM BẪY NGŨ QUỶ VẬN TÀI**
-  * *Bối cảnh:* Biệt phủ xa hoa của một trùm buôn lậu đá quý.
-  * *Nội dung:* Thân chủ chi tiền tấn yêu cầu Na thiết lập trận đồ *Ngũ Quỷ Vận Tài* để hút hết tài lộc của đối thủ cạnh tranh. Nhìn thấy gia cảnh khánh kiệt và cái chết tức tưởi của gia đình đối thủ, Na kiên quyết từ chối. Tên trùm liền mời một tay thầy pháp hắc đạo đến lập trận. Không đành lòng nhìn gia đình vô tội bị bức tử, Na âm thầm ra tay can thiệp nhưng đụng độ bẫy trận hiểm độc phản phục.
-  * *Key Audio:* Tiếng thác nước phong thủy nhân tạo ầm ầm rỉ máu, tiếng tiền vàng mã cháy xì xèo, tiếng kim la kinh quay tròn mất phương hướng, tiếng cười gằn đắc thắng của trùm buôn lậu.
+  * *Bối cảnh:* Dinh thự xa hoa nguy nga của một trùm kinh doanh tài chính đen.
+  * *Nội dung:* Thân chủ chi hàng tỷ đồng yêu cầu Phan Na lập trận đồ *Ngũ Quỷ Vận Tài* để hút kiệt tài vận của đối tác làm ăn. Nhìn thấy gia đình đối tác sắp rơi vào cảnh tan cửa nát nhà, Na thẳng thừng từ chối: *"Tiền kiếm bằng việc bẻ cong đạo đức là thứ tiền nhuốm máu, Phan Na này không nhận"*. Tên trùm nổi giận, thuê một tay thầy pháp tà đạo đến lập trận. Không đành lòng nhìn người vô tội chết oan, Na âm thầm tìm cách hóa giải thế trận, nhưng cô không ngờ bản thân đã bước vào một cái bẫy tinh vi được giăng sẵn.
+  * *Key Audio:* Tiếng thác nước phong thủy nhân tạo ầm ầm giả tạo, tiếng tiền vàng mã xì xèo bốc khói đen kịt, tiếng đồng xu cổ rơi loảng xoảng trên mặt bàn đá cẩm thạch, tiếng cười đắc thắng nham hiểm của gã trùm.
 
 * **TẬP 8: QUẢ BÁO PHẢN PHỆ VÀ CƠN MÊ ĐEN TỐI**
-  * *Bối cảnh:* Căn gác trọ tồi tàn của Na giữa mùa mưa ngập úng.
-  * *Nội dung:* Phá vỡ trận Ngũ Quỷ cứu người nhưng do còn non nớt và phạm vào quy tắc "can thiệp nhân quả khi tâm chưa vững", Na bị sát khí tà trận phản phệ cực nặng. Mắt cậu mờ dần, toàn thân sốt rét run rẩy, ảo ảnh ma quái liên tục bủa vây đòi mạng. Lam lần đầu tiên gạt bỏ định kiến khoa học, đem mẫu nước và đất nhiễm độc từ công trình đến chăm sóc và tìm cách cứu Na.
-  * *Key Audio:* Tiếng mưa rơi dột mái tôn lộp độp, tiếng hơi thở đứt quãng run rẩy của Na, tiếng thì thầm ma quái bên tai, tiếng bước chân hối hả và giọng nói lo lắng của Lam.
+  * *Bối cảnh:* Căn phòng trọ nhỏ ngập trong cơn mưa rào đô thị.
+  * *Nội dung:* Dù phá tan tà trận cứu được gia đình nạn nhân, nhưng vì non kinh nghiệm và can thiệp quá sâu vào nghiệp lực tha nhân khi tâm thức chưa đủ vững chãi, Phan Na bị luồng sát khí cực độc phản phệ. Đôi mắt cô mờ đục dần rồi chìm vào bóng tối hoàn toàn, toàn thân sốt cao mê man. Giữa lúc thập tử nhất sinh, Trần Lam xuất hiện. Anh dùng kiến thức y sinh học và mẫu nước nhiễm khoáng độc do tà trận gây ra để sát cánh chăm sóc, truyền dịch và bảo vệ cô trước những đợt ảo ảnh ma quái bủa vây.
+  * *Key Audio:* Tiếng mưa rả rích dội mái tôn, tiếng thở gấp gáp run rẩy của Phan Na trong cơn sốt, tiếng thì thầm ma quái bên tai, tiếng bước chân hối hả và giọng nói ân cần của Lam bên giường bệnh.
 
 * **TẬP 9: THỨC TỈNH TRƯỚC VẠN CÂN NHÂN QUẢ**
-  * *Bối cảnh:* Chùa cổ ngoại thành thanh tịnh.
-  * *Nội dung:* Na được Lam đưa đến nương nhờ một ngôi cổ tự. Tiếng chuông chùa sớm hôm giúp Na tống khứ độc khí và hồi phục thị giác. Na ngộ ra một chân lý khắc cốt ghi tâm: *"Phong thủy không thể đổi được nghiệp quả của kẻ bất nhân. Cố giúp kẻ ác trốn nợ trời thì chính thầy phong thủy sẽ phải trả bằng mạng sống"*. Na chôn chiếc la bàn cũ, quyết định rời bỏ chốn đô thị tham lam để đi tìm cội nguồn long mạch dân tộc.
-  * *Key Audio:* Tiếng đại hồng chung trầm ấm ngân vang, tiếng kinh cầu nguyện đều đặn, tiếng gió xào xạc cành bồ đề, tiếng lòng thanh thản của Na khi trút bỏ gánh nặng danh lợi.
+  * *Bối cảnh:* Ngôi chùa cổ ngoại thành bên dòng sông tĩnh lặng.
+  * *Nội dung:* Lam đưa Na về nương nhờ một cổ tự thanh tịnh. Trong những ngày sống trong bóng tối, mất đi đôi mắt thể xác, Phan Na học được cách "nhìn" thế giới bằng tâm thức. Tiếng chuông chùa, mùi trầm hương và sự quan tâm chân thành của Lam giúp sát khí trong kinh mạch cô tiêu tán. Khi mở mắt đón ánh bình minh đầu tiên, Na không còn là cô gái háo thắng ngày nào. Cô nhận ra: phong thủy chỉ là ngọn đèn chỉ đường, đức hạnh của con người mới là gốc rễ. Cô quyết định cùng Lam đi tìm lại nguồn cội phong thủy chân chính nơi non sông đất nước.
+  * *Key Audio:* Tiếng chuông chùa ngân vang trầm ấm xua tan u uất, tiếng chim hót ríu rít ban mai, tiếng gió thổi lay động cành bồ đề xào xạc, tiếng thở dài nhẹ nhõm trút bỏ bụi trần của Phan Na.
 
 ---
 
 ### ◈ PHẦN 3: TẦM LONG VẠN DẶM & BẢO VỆ HUYẾT MẠCH (Tập 10 – 15)
 
-* **TẬP 10: SỰ HY SINH CỦA SƯ PHỤ VÀ BỨC THƯ HUYẾT LỆ**
-  * *Bối cảnh:* Thảo am Yên Tử chìm trong biển lửa.
-  * *Nội dung:* Nhận được tin dữ từ sư môn, Na hớt hải quay về thì thảo am đã bị thiêu rụi. Hắc Địa Sư Vô Danh đã tấn công sư phụ để đoạt *Bản Đồ Thập Lục Long Mạch*. Sư phụ Tùng Thiện dùng tàn lực cuối cùng phong ấn bí kíp vào thân gậy trúc, để lại bức thư dặn dò Na: *"Long mạch là hồn cốt non sông, tuyệt đối không để rơi vào tay ngoại bang hay phường gian tà"*. Sư phụ trút hơi thở cuối cùng trong vòng tay Na giữa trời mưa tầm tã.
-  * *Key Audio:* Tiếng lửa cháy rào rào thiêu rụi gỗ tre, tiếng sấm nổ đinh tai nhức óc, tiếng khóc nghẹn ngào của Na, lời trăn trối run rẩy đứt quãng của Sư phụ.
+* **TẬP 10: TẬN DIỆT THẢO AM VÀ BỨC HUYẾT THƯ**
+  * *Bối cảnh:* Thảo am Yên Tử chìm trong biển lửa ngút trời.
+  * *Nội dung:* Nhận được linh cảm bất an, Phan Na và Lam vội vã quay về thảo am thì nơi chốn bình yên năm xưa đã bị thiêu rụi. Hắc Địa Sư Trần Hắc Miêu đã kéo người đến cướp *Bản Đồ Thập Lục Long Mạch*. Sư phụ Tùng Thiện dùng tàn lực cuối cùng kích hoạt đại trận đá giam chân kẻ thù, phong ấn bí kíp vào cây gậy trúc trao lại cho Na. Trước khi nhắm mắt, Sư phụ nghẹn ngào vuốt tóc Na: *"Con gái, con là niềm tự hào lớn nhất đời ta... Đất mẹ đang rỉ máu, hãy thay ta bảo vệ cõi đất này..."*. Phan Na quỳ gối giữa đống tro tàn, gạt nước mắt lập lời thề sinh tử.
+  * *Key Audio:* Tiếng lửa cháy rào rào thiêu rụi mái tranh, tiếng sấm nổ đinh tai xé rách màn mây, tiếng khóc nghẹn ngào xé ruột của Phan Na, lời dặn dò đứt quãng trong hơi thở tàn của Sư phụ.
 
 * **TẬP 11: BÍ ẨN RỪNG MA TÂY BẮC**
-  * *Bối cảnh:* Vùng núi đá tai mèo Hà Giang quanh năm mây mù.
-  * *Nội dung:* Na cùng Lam lên đường truy tìm nhánh long mạch thứ nhất tại Tây Bắc. Họ bước vào một khu rừng nguyên sinh bị người dân gọi là "Rừng Ma" – nơi kim la bàn hoàn toàn mất tác dụng do mỏ quặng từ tính và địa khí đảo lộn. Tại đây, Na học được cách đọc hướng mọc của rêu phong, hướng bay của chim muông và hình thế uốn lượn của dãy núi (*Hình thế Loan Đầu*) thay vì phụ thuộc vào la bàn số đo.
-  * *Key Audio:* Tiếng gió hú qua hốc đá vôi sắc nhọn, tiếng bước chân dẫm trên thảm lá mục ẩm ướt, tiếng chim kêu lạ lùng giữa rừng già, tiếng hơi thở lạnh buốt phả ra khói.
+  * *Bối cảnh:* Rừng nguyên sinh trên cao nguyên đá Đồng Văn - Hà Giang.
+  * *Nội dung:* Lần theo manh mối bản đồ, Na và Lam lên Tây Bắc tìm nhánh long mạch khởi nguồn từ rặng Hoàng Liên Sơn. Bước vào khu "Rừng Ma" nổi tiếng – nơi la bàn và thiết bị GPS của Lam hoàn toàn bị vô hiệu hóa bởi dị thường từ trường ngầm. Lam bắt đầu hoảng loạn khi lạc giữa sương mù buốt giá. Phan Na đã bình tĩnh hướng dẫn Lam nhận biết phương hướng qua hướng rêu phong bám trên vách đá tai mèo, dòng chảy của mạch nước ngầm và dáng hình của dãy núi chầu về phương Nam (*Thế Phượng Hoàng Triều Khuyết*).
+  * *Key Audio:* Tiếng gió rít qua hốc đá vôi sắc nhọn u u như tiếng khóc, tiếng bước chân đạp trên lá mục xào xạc, tiếng thở phì phò lạnh buốt, tiếng gậy trúc điểm đều đặn dẫn đường của Na.
 
 * **TẬP 12: ĐOẠT MỆNH TRÊN ĐỈNH ĐÈO GIÓ**
-  * *Bối cảnh:* Vách đá cheo leo đỉnh Mã Pí Lèng.
-  * *Nội dung:* Nhóm tay sai của Hắc Địa Sư đuổi kịp Na. Một trận đấu trí phong thủy diễn ra nghẹt thở ngay bên bờ vực thẳm: kẻ địch dùng trận pháp gương đồng gom ánh sáng mặt trời tạo thành *Hỏa Xung Sát* thiêu đốt sinh khí đoàn người; Na dùng sương mù thung lũng và hướng gió đông bắc mượn thế *Thủy Khí tiêu Hỏa*, đảo ngược thế trận khiến kẻ địch kinh hồn bạt vía rút lui.
-  * *Key Audio:* Tiếng đá lăn xuống vực sâu vang vọng thăm thẳm, tiếng gương phản quang rít lên vì hội tụ nhiệt, tiếng gió quất mạnh vào áo tơi phần phật, tiếng gõ trượng giòn giã của Na.
+  * *Bối cảnh:* Vách đá cheo leo đỉnh đèo Mã Pí Lèng bên bờ vực sông Nho Quế.
+  * *Nội dung:* Nhóm tay sai của Hắc Địa Sư phục kích đoàn người của Na ngay khúc cua tử thần. Kẻ địch dùng trận địa gương đồng hội tụ ánh sáng mặt trời cực mạnh tạo thành *Hỏa Xung Sát* nhằm thiêu đốt đoàn người và đẩy họ xuống vực. Giữa lằn ranh sinh tử, Phan Na quan sát thấy luồng hơi ẩm khổng lồ đang bốc lên từ lòng hẻm vực Tu Sản. Cô dùng bột chu sa tạo hướng gió hút sương mù thung lũng dâng cao, lấy *Thủy khí dập tắt Hỏa trận*, phản xạ ánh sáng khiến quân địch lóa mắt tự trượt chân tháo chạy.
+  * *Key Audio:* Tiếng đá lăn xuống vực sâu thăm thẳm vang vọng rùng mình, tiếng gió thung lũng gầm rú dữ dội, tiếng gương đồng phản chiếu rít lên vì quá nhiệt, tiếng hô hoán kinh hoàng của kẻ thù.
 
 * **TẬP 13: XUÔI VỀ PHƯƠNG NAM – ĐẤT MŨI VÀ THỦY LONG MẠCH**
-  * *Bối cảnh:* Rừng ngập mặn Cà Mau mênh mông sông nước.
-  * *Nội dung:* Na và Lam xuôi về phương Nam tìm kiếm nhánh "Thủy Long" – mạch sống của đồng bằng. Họ gặp Bác Ba Đước, một lão ngư hiểu từng con nước lớn nước ròng. Bác Ba kể về hiện tượng sạt lở bờ sông kỳ quái đang nuốt chửng từng ngôi làng, nơi đáy sông có những cọc gỗ phong thủy bị yểm từ thời chiến tranh nhằm phá vỡ thế đất bồi tụ.
-  * *Key Audio:* Tiếng mái chèo khua nước bì bõm, tiếng máy ghe nổ tạch tạch từ xa, tiếng sóng vỗ mạn thuyền gỗ, tiếng rễ cây đước lạo xạo cắm sâu vào bùn lầy.
+  * *Bối cảnh:* Rừng ngập mặn Cà Mau bạt ngàn sông nước phù sa.
+  * *Nội dung:* Tạm biệt núi rừng phía Bắc, Na và Lam xuôi về phương Nam tìm kiếm nhánh "Thủy Long" – mạch máu nuôi dưỡng toàn bộ vựa lúa đồng bằng. Họ gặp Bác Ba Đước, người dẫn đường kỳ cựu trên chiếc vỏ lãi xé sóng. Bác Ba kể về hiện tượng sạt lở bờ sông dị thường nuốt chửng hàng chục nóc nhà mỗi mùa gió chướng. Phan Na phát hiện đáy sông có những cọc gỗ phong thủy bị găm sâu từ thời chiến tranh nhằm triệt phá sự bồi tụ tự nhiên của phù sa.
+  * *Key Audio:* Tiếng máy vỏ lãi nổ tành tạch giòn giã trên mặt sông, tiếng sóng vỗ bồm bộp vào mạn thuyền gỗ, tiếng chim le le kêu chiều rầu rĩ, tiếng mái chèo khua nước bì bõm.
 
 * **TẬP 14: ĐÊM PHÁ TRẬN DƯỚI ĐÁY SÔNG SÂU**
-  * *Bối cảnh:* Khúc sông ngã ba tử thần trong đêm nước triều rút mạnh.
-  * *Nội dung:* Na lặn xuống lòng sông sâu ngạt thở cùng Bác Ba Đước để nhổ cọc yểm sắt rỉ sét chôn dưới bùn đen. Dưới đáy nước tối tăm, luồng khí lạnh buốt như bàn tay vô hình kéo chân Na. Lam trên bờ dùng máy đo tần số âm thanh dẫn đường cho Na qua bộ đàm. Cọc yểm được nhổ lên, dòng phù sa đỏ au cuồn cuộn chảy lại bình thường, cứu hàng trăm mẫu đất canh tác khỏi sạt lở.
-  * *Key Audio:* Tiếng thở qua ống thở lặn rít lên nặng nề, tiếng nước ùng ục quanh tai, tiếng xích sắt cọ xát ken két dưới bùn sâu, tiếng reo vui qua máy bộ đàm chập chờn.
+  * *Bối cảnh:* Ngã ba sông tử thần trong đêm nước triều rút xiết.
+  * *Nội dung:* Để nhổ chiếc cọc phong thủy trấn yểm dưới đáy bùn sâu, Phan Na quyết định mặc đồ lặn tự mình xuống nước dù không giỏi bơi lội. Lam hết lời can ngăn nhưng không ngăn được quyết tâm của cô. Dưới đáy nước tối om lạnh buốt, luồng xoáy ngầm tà khí như những sợi rong rêu quỷ quái quấn lấy chân Na. Lam trên thuyền dùng thiết bị định vị siêu âm hướng dẫn Na từng centimet. Bằng sự dũng cảm phi thường và nhát chém quyết định từ chiếc dùi đồng cổ của Sư phụ, chiếc cọc yểm bật gốc, dòng phù sa đỏ au cuồn cuộn chảy lại trong niềm vỡ òa của mọi người.
+  * *Key Audio:* Tiếng thở qua bình khí lặn rít lên nặng nề dưới nước, tiếng tim đập thình thịch trong lồng ngực, tiếng xích sắt va vào đá cọc ken két dưới bùn nhão, tiếng reo mừng rơi nước mắt của Lam qua bộ đàm.
 
-* **TẬP 15: THÂN PHẬN THẬT SỰ CỦA HẮC ĐỊA SƯ**
-  * *Bối cảnh:* Ngôi nhà cổ bỏ hoang bên bờ kênh Chợ Gạo.
-  * *Nội dung:* Na tìm thấy dấu tích căn cứ của kẻ thù. Tại đây, Na bàng hoàng phát hiện ra sự thật chấn động: Hắc Địa Sư Vô Danh chính là người thầy phong thủy năm xưa từng chỉ điểm căn nhà "Trảm Đầu Sát" hại chết cha mình! Hắn không chỉ làm vì tiền, mà là mắt xích trong một mưu đồ kéo dài 30 năm nhằm hút cạn sinh khí của các thế đất huyết mạch trên toàn cõi đất nước.
-  * *Key Audio:* Tiếng cửa gỗ mục cọt kẹt mở ra, tiếng gió lùa làm lay động mạng nhện xơ xác, tiếng trang giấy cũ sột soạt lật giở, tiếng tim Na đập thình thịch khi nhận ra nét chữ quen thuộc trên tấm bản đồ oan nghiệt.
+* **TẬP 15: BÓC TRẦN VẾT MÁU BA MƯƠI NĂM TRƯỚC**
+  * *Bối cảnh:* Căn biệt thự cổ bỏ hoang phủ đầy rêu phong bên bờ kênh Chợ Gạo.
+  * *Nội dung:* Lần theo manh mối của cọc yểm, Na và Lam đột nhập sào huyệt bí mật của Hắc Địa Sư. Tại đây, trong căn hầm bí mật, Phan Na tìm thấy tập sơ đồ các huyệt đạo bị tàn phá suốt 30 năm qua. Bàng hoàng thay, bản vẽ thế đất "Trảm Đầu Sát" của chính ngôi nhà cha mẹ cô năm xưa cũng nằm tại đây! Kẻ đứng sau giật dây toàn bộ bi kịch đời cô không ai khác chính là Trần Hắc Miêu. Nỗi đau quá khứ trào dâng, nhưng Na không để lòng hận thù làm mờ mắt. Cô nắm chặt tay Lam: *"Tôi sẽ bắt hắn phải đền tội trước pháp luật và luật trời, không phải bằng sự báo thù mù quáng, mà bằng sự công chính"*.
+  * *Key Audio:* Tiếng sàn gỗ mục kêu cọt kẹt dưới chân, tiếng chuột chạy lạo xạo trong bóng tối, tiếng lật giở những trang giấy ố vàng rách nát, tiếng Phan Na nén tiếng nấc nghẹn ngào đầy quả cảm.
 
 ---
 
 ### ◈ PHẦN 4: ĐẠI THÀNH & BẢN NGUYÊN BÁT TRẠCH (Tập 16 – 20)
 
-* **TẬP 16: HỘI TỤ ĐẠI CỤC – BÍ MẬT NÚI NÚI SÔNG SÔNG**
-  * *Bối cảnh:* Đỉnh núi Ba Vì mây phủ linh thiêng.
-  * *Nội dung:* Na tập hợp đủ mảnh ghép của Thập Lục Long Mạch. Lam kết hợp bản đồ vệ tinh viễn thám và dữ liệu trắc địa hiện đại để mô phỏng 3D trường khí toàn quốc, hoàn toàn trùng khớp với từng câu thơ trong cuốn cổ thư của Sư phụ Tùng Thiện. Điểm tụ khí trung tâm tối thượng nằm tại một thung lũng cổ kính – nơi kẻ thù đang chuẩn bị kích hoạt đại trận tà ác vào đêm Trăng Máu trùng nhật thực.
-  * *Key Audio:* Tiếng bàn phím gõ lách cách phối hợp tiếng chuông đồng thiền định, tiếng gió đại ngàn vi vu hùng vĩ, tiếng chim đại bàng vỗ cánh trên tầng không cao vút.
+* **TẬP 16: HỘI TỤ ĐẠI CỤC – BẢN ĐỒ KHÍ TRƯỜNG 3D**
+  * *Bối cảnh:* Trạm quan sát khí tượng dã chiến trên đỉnh núi Ba Vì linh thiêng.
+  * *Nội dung:* Phan Na và Lam tổng hợp toàn bộ 16 điểm nút long mạch. Lam sử dụng siêu máy tính cùng dữ liệu viễn thám vệ tinh kết hợp với khẩu quyết phong thủy cổ của Na để tạo nên mô hình 3D hoàn chỉnh về trường khí non sông. Họ phát hiện một âm mưu kinh thiên động địa: Trần Hắc Miêu đang gom tụ toàn bộ tà khí của các nhánh bị phong ấn về một thung lũng đá cổ để kích hoạt đại trận "Cửu Long Đoạt Mạch" vào đúng đêm Nhật thực toàn phần, nhằm chiếm đoạt nguyên khí trường thọ bất tử.
+  * *Key Audio:* Tiếng quạt tản nhiệt máy tính chạy ro ro phối hợp nhịp nhàng với tiếng chuông xoay Tây Tạng thiền định, tiếng gió đại ngàn Ba Vì thổi lồng lộng, tiếng chim ưng vỗ cánh trên tầng không bao la.
 
-* **TẬP 17: TIẾNG GỌI TRƯỚC GIỜ HOÀNG ĐẠO**
-  * *Bối cảnh:* Thung lũng hoang vu trước cơn bão lớn.
-  * *Nội dung:* Na chuẩn bị vật phẩm phong thủy: không phải vàng bạc châu báu mà là đất từ 5 phương, nước từ 3 dòng sông thiêng, và lòng thành kính tuyệt đối. Lam lo lắng khuyên Na rút lui vì nguy hiểm tính mạng, nhưng Na mỉm cười thanh thản: *"Đời người như bóng câu qua cửa sổ, nếu ta sợ chết mà để tà ma làm ô uế non sông, thì sống cũng chỉ là cái xác không hồn"*. Tình cảm thầm lặng giữa hai con người bừng sáng trong đêm giông bão.
-  * *Key Audio:* Tiếng sấm chớp đùng đoàng từ phía chân trời, tiếng hạt mưa đầu mùa lộp độp trên lá khô, tiếng vải áo bay phần phật trong gió lốc, cuộc đối thoại trầm lắng ấm áp giữa Na và Lam.
+* **TẬP 17: TIẾNG GỌI CỦA ĐẤT MẸ TRƯỚC BÃO GIÔNG**
+  * *Bối cảnh:* Thung lũng đá cổ trước giờ khắc định mệnh, mây đen vần vũ che kín mặt trời.
+  * *Nội dung:* Phan Na chuẩn bị pháp khí: không phải gươm đao mà là đất lấy từ 5 đỉnh núi thiêng, nước lấy từ 3 dòng sông ngọc, và chiếc La Kinh của Sư phụ. Đêm trước trận chiến, bên đống lửa sưởi ấm giữa rừng già, Lam thổ lộ tình cảm chân thành và sự khâm phục sâu sắc dành cho Na. Anh trao cho cô chiếc la bàn trắc địa điện tử do chính tay anh chế tạo riêng cho cô. Na mỉm cười, ánh mắt chan chứa niềm tin: *"Nếu mai này đất mẹ bình yên, tôi muốn cùng anh đi trồng lại những cánh rừng bị tàn phá"*.
+  * *Key Audio:* Tiếng củi nổ lách tách trong đống lửa, tiếng sấm âm ỉ rền vang từ chân trời xa, tiếng lá rừng xào xạc trong cơn gió lạnh đầu mùa, cuộc đối thoại lắng đọng, ấm áp giữa hai tâm hồn đồng điệu.
 
 * **TẬP 18: ĐẠI CHIẾN PHONG THỦY: HẮC HUYẾT VÀ BẠCH LONG**
-  * *Bối cảnh:* Đại trận địa tại thung lũng đá cổ trong đêm nhật thực.
-  * *Nội dung:* Hắc Địa Sư dẫn đầu đoàn tùy tùng kích hoạt trận địa *Cửu Long Đoạt Mạch*. Đất đá rung chuyển, khói đen ngùn ngụt bốc lên từ các hố sâu, chim muông bay tán loạn. Na xuất hiện một mình trên đỉnh gò đất trung tâm, tay cầm gậy trúc của Sư phụ. Cuộc đấu pháp đỉnh cao diễn ra bằng thanh âm, hướng gió, vị trí các cột đá và trận đồ Bát Quái. Từng đòn thế tà ác bị Na lấy nhu thắng cương, dùng quy luật thuận dòng hóa giải từng bước.
-  * *Key Audio:* Âm thanh Sub-bass chấn động mặt đất, tiếng đá nứt toác dữ dội, tiếng trống trận và chuông lệnh vang dội, tiếng gậy trúc điểm đất vang lên như tiếng chuông chùa xua tan khói độc.
+  * *Bối cảnh:* Thung lũng đá cổ trong đêm Nhật thực toàn phần đen đặc như mực.
+  * *Nội dung:* Trần Hắc Miêu mặc áo thụng đen, dẫn đầu các tín đồ tà giáo kích hoạt 9 cột đồng yểm máu động vật. Đất đá rung chuyển dữ dội, khói đen hôi tanh bốc lên từ lòng nứt nẻ. Phan Na xuất hiện hiên ngang trên mỏm đá trung tâm. Một cuộc đấu trí phong thủy vô tiền khoáng hậu diễn ra: Hắc Miêu dùng thế trận hung hãn dồn ép; Phan Na dùng quy luật "Lấy nhu thắng cương", dùng âm thanh khánh đồng, hướng gió lốc và ánh sáng nhật thực để từng bước đảo ngược các mắt xích tà trận. Lam ở vòng ngoài cùng lực lượng chức năng ngăn chặn nhóm tay sai có vũ khí.
+  * *Key Audio:* Âm thanh Sub-bass chấn động sâu dưới lòng đất, tiếng đá nứt toác ken két rùng rợn, tiếng kim đồng la kinh reo lên dữ dội, tiếng khánh đồng của Phan Na ngân vang đanh thép át tiếng gầm gào ma quái.
 
-* **TẬP 19: PHÁN QUYẾT CỦA ĐẤT TRỜI**
-  * *Bối cảnh:* Tâm điểm trận pháp khi trời đất giao hòa rạng đông.
-  * *Nội dung:* Hắc Địa Sư cùng đường tính kế, định kích nổ mìn phá sập hang ngầm để chôn vùi long mạch cùng tất cả mọi người. Na không dùng sát chiêu tiêu diệt hắn mà dùng chính thân mình che chắn cho người dân và đồng đội, đồng thời cắm cây trượng phong thủy vào đúng "Huyệt Sinh Cơ". Long mạch thức tỉnh, một luồng sinh khí ấm áp thổi bùng xua tan bão giông. Kẻ ác bị chính trường khí phản phệ của lòng tham chôn vùi dưới đống đá hoang phế.
-  * *Key Audio:* Tiếng kíp nổ vang rền rồi bị triệt tiêu bởi tiếng đất sụt êm ái, tiếng gió ấm áp thổi bừng qua thung lũng, tiếng thở phào nhẹ nhõm nghẹn ngào, tiếng ánh ban mai chiếu rọi chim hót ríu rít trở lại.
+* **TẬP 19: LONG MẠCH THỨC TỈNH VÀ BẢN ÁN TRỜI ĐẤT**
+  * *Bối cảnh:* Điểm huyệt Sinh Cơ tại tâm thung lũng khi vầng hào quang mặt trời ló dạng sau nhật thực.
+  * *Nội dung:* Bị phá vỡ thế trận, Trần Hắc Miêu hóa điên cuồng, lao vào định kích nổ thuốc mìn chôn vùi huyệt đạo cùng tất cả mọi người. Phan Na không màng tính mạng lao vào cắm cây gậy trúc của Sư phụ vào đúng "Huyệt Sinh Cơ" để giải phóng năng lượng ứ đọng. Long mạch bừng tỉnh, một luồng sinh khí ấm áp tuôn trào làm tắt ngúm ngòi nổ thuốc súng. Trần Hắc Miêu bị chính áp lực địa từ và tội lỗi cả đời phản phệ, phát điên gào thét rồi bị bắt giữ. Bầu trời rực sáng ánh bình minh, đất đá nảy mầm những mầm xanh non tơ kỳ diệu.
+  * *Key Audio:* Tiếng xèo xèo của ngòi nổ bị dập tắt đột ngột, tiếng đất đá chuyển mình êm ái, tiếng gió ấm áp thổi bừng qua thung lũng, tiếng chim muông ríu rít trở lại sau đêm dài tăm tối.
 
-* **TẬP 20: TÂM KHÔNG – CON ĐƯỜNG MỚI CỦA THẦY NA**
-  * *Bối cảnh:* Thảo am cũ được phục dựng lại giữa rừng cây xanh ngát.
-  * *Nội dung:* Mọi sóng gió qua đi. Na từ chối mọi lời mời vinh hoa phú quý của các đại gia, quay về dựng lại thảo am của Sư phụ Tùng Thiện. Lam tiếp tục công việc kỹ sư nhưng mang theo tri thức trân trọng tự nhiên vào từng công trình hiện đại. Na ngồi bên ấm trà sen, mở lớp dạy cho những đứa trẻ làng về cách yêu cây cỏ, kính trọng sông ngòi. Một vị khách lạ ghé thăm xin xem hướng nhà, Thầy Na mỉm cười điềm đạm: *"Nhà hướng nào không quan trọng bằng tâm người hướng về đâu..."*.
-  * *Key Audio:* Tiếng rót trà róc rách ấm cúng, tiếng chim hót thanh bình buổi sớm, tiếng cười trẻ thơ rộn rã ngoài sân, tiếng chuông gió phong linh 6 ống ngân nga êm dịu khép lại trọn vẹn bộ truyện dài kỳ.
+* **TẬP 20: TÂM KHÔNG – CON ĐƯỜNG MỚI CỦA THẦY PHAN NA**
+  * *Bối cảnh:* Thảo am Yên Tử được dựng lại khang trang, ngập tràn hoa dại và tiếng suối trong veo.
+  * *Nội dung:* Sau chiến công hiển hách, tên tuổi của "Nữ thầy phong thủy Phan Na" vang danh khắp giới kiến trúc và địa lý cả nước. Hàng trăm đại gia mang tiền của đến xin cô chỉ điểm huyệt tài lộc nhưng Na đều từ chối. Cô cùng Lam thành lập một quỹ bảo tồn cảnh quan và địa chất, chuyên tư vấn miễn phí cho các công trình công cộng, trường học và làng mạc nghèo. Một buổi chiều thanh bình, một nữ sinh trẻ tìm đến thảo am xin bái sư học đạo phong thủy. Phan Na mỉm cười rót chén trà sen, trao cho cô gái chiếc la bàn nhỏ: *"Học phong thủy, trước hết phải học cách yêu lấy từng ngọn cỏ cành cây..."*.
+  * *Key Audio:* Tiếng rót trà róc rách nghi ngút khói thơm, tiếng chuông gió phong linh 6 ống ngân nga êm dịu, tiếng cười nói ấm áp giữa Na và Lam, tiếng nhạc nền acoustic thanh thản khép lại thiên truyện dài kỳ.
 
 ---
 
-## 5. HƯỚNG DẪN KỸ THUẬT SẢN XUẤT CHO ENGINE (AI PIPELINE MAPPING)
+## 5. HƯỚNG DẪN KỸ THUẬT CHO ENGINE (VOICE & AUDIO MAPPING)
 
-| Tham số | Giá trị quy chuẩn cho Story 02 | Ghi chú kỹ thuật |
+| Tham số | Giá trị quy chuẩn cho Story 02 | Chi tiết kỹ thuật |
 | :--- | :--- | :--- |
-| **Thư mục Story** | `stories/story_02_thay_phong_thuy_na/` | Kiến trúc Đa cốt truyện Modular 3.0 |
-| **Số lượng tập** | 20 Tập (Tập 1 $\rightarrow$ Tập 20) | Định dạng kịch bản Markdown chuẩn tags thoại |
-| **Độ dài mỗi tập** | 28 – 35 phút audio (~3.500 – 4.500 từ thoại) | Tốc độ đọc diễn cảm trung bình 130 wpm |
-| **Tần số lấy mẫu Master** | $48{,}000 \text{ Hz}$, 320 kbps MP3 / Stereo | Đồng bộ chuẩn phòng thu phát sóng quốc tế |
-| **BGM Ambience chính** | Phong thủy cổ phong, tiếng gió vi vu, suối róc rách | Volume mix: `0.14 - 0.16` |
-| **SFX Tags đặc trưng** | `[SFX_LA_KINH]`, `[SFX_CHUONG_DONG]`, `[SFX_THIEN_TRAM_SAT]`, `[SFX_NUOC_NGAM]` | Bổ sung tương ứng vào `core/audio_mixer.py` |
-| **Phân vai TTS** | `NA` (NamMinh +4Hz), `SƯ PHỤ` (NamMinh -22Hz), `LAM` (HoaiMy +6Hz) | Cấu hình tại `story_config.json` |
+| **Nhân vật chính** | **PHAN NA** (Nữ, 24 tuổi) | Giọng đọc: `vi-VN-HoaiMyNeural` (`rate: +0%`, `pitch: +2Hz`) - Điềm tĩnh, trong sáng, dứt khoát |
+| **Nhân vật đồng hành** | **TRẦN LAM** (Nam, 28 tuổi) | Giọng đọc: `vi-VN-NamMinhNeural` (`rate: +1%`, `pitch: +2Hz`) - Trẻ trung, logic, khoa học |
+| **Sư phụ** | **SƯ PHỤ TÙNG THIỆN** (72 tuổi) | Giọng đọc: `vi-VN-NamMinhNeural` (`rate: -12%`, `pitch: -22Hz`) - Uy nghiêm, chậm rãi, trầm ấm |
+| **Phản diện** | **HẮC ĐỊA SƯ TRẦN HẮC MIÊU** | Giọng đọc: `vi-VN-NamMinhNeural` (`rate: -6%`, `pitch: -24Hz`) - Lạnh lùng, thâm độc, ngạo mạn |
+| **Người dẫn chuyện** | **NGƯỜI DẪN CHUYỆN** | Giọng đọc: `vi-VN-NamMinhNeural` (`rate: -3%`, `pitch: -4Hz`) - Điện ảnh, dẫn dắt bí ẩn |
+| **Tần số chuẩn** | $48{,}000 \text{ Hz}$, 320 kbps MP3 | Chuẩn phát thanh truyền hình / Podcast điện ảnh |
+| **Thời lượng kịch bản** | 20 Tập $\times$ ~30 Phút/tập | Tổng thời lượng hoàn chỉnh: ~10 giờ audio |
 
 ---
-*Tài liệu Master Bible này là kim chỉ nam duy nhất để biên soạn chi tiết kịch bản 20 tập và đưa vào pipeline sản xuất tự động.*
-
+*Bản Master Bible này đã cập nhật trọn vẹn thông tin nhân vật chính: **Phan Na (Nữ)**, sẵn sàng để triển khai viết chi tiết từng tập kịch bản.*
