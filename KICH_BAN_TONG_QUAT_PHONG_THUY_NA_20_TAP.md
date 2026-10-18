@@ -9,12 +9,12 @@
 * **Tựa đề thương mại:** **THẦY PHONG THỦY PHAN NA: LONG MẠCH KỲ ÁN**
 * **Thể loại:** Kịch truyền thanh điện ảnh (Cinematic Audio Drama), Huyền bí - Phong thủy chính tông, Kiến trúc & Linh dị đô thị, Trinh thám kỳ án trường khí, Nữ chủ thông tuệ & Bản lĩnh hiện đại.
 * **Thời lượng:** **20 Tập** (Mỗi tập dài chuẩn **28 – 35 phút** audio thành phẩm, giàu chi tiết đối thoại sắc sảo, độc thoại nội tâm thanh lịch, tri thức phong thủy cổ truyền kết hợp khoa học kiến trúc hiện đại, lớp âm thanh Foley 48kHz sống động).
-* **Thông điệp & Tinh thần chủ đạo:**
-  * Khắc họa hình tượng **Phan Na** – một cô gái hiện đại, thanh lịch, có tri thức, xuất thân từ một gia đình trí thức đàng hoàng, ấm êm. Cô đến với phong thủy bằng đam mê nghiên cứu khoa học không gian, vi khí hậu và năng lượng trường khí tự nhiên.
-  * Phá bỏ định kiến: Không cần phải xuất thân bần hàn hay trải qua bi kịch đau thương mới trở thành bậc thầy. Phan Na trưởng thành bằng chính tư chất thông minh, cái tâm trong sáng, bản lĩnh nghiên cứu và lòng nhiệt thành muốn đem lại sự an cư lạc nghiệp cho cộng đồng.
-  * Triết lý cốt lõi:
-    > *"Nhất mệnh, nhì vận, tam phong thủy, tứ tích âm đức, ngũ độc thư."*  
-    > Phong thủy chân chính là khoa học môi trường về sự hài hòa giữa Con Người và Không Gian Sống. Người có tâm đức sáng trong, sống đàng hoàng tử tế thì đi đến đâu cũng biến nơi đó thành đất lành chim đậu.
+* **Bối cảnh quê hương Kinh Bắc - Bắc Ninh:**
+  * Bộ truyện lấy cội nguồn từ mảnh đất **Bắc Ninh** – vùng đất Kinh Bắc địa linh nhân kiệt, phát tích triều Lý, cái nôi của văn hóa cổ truyền và phong thủy đỉnh cao Đại Việt với sông Đuống (Thiên Đức), sông Cầu (Như Nguyệt), núi Tiêu Sơn, núi Phật Tích, Đền Đô, Chùa Bút Tháp, Chùa Dâu.
+  * Khắc họa hình tượng **Phan Na** – người con gái Kinh Bắc thanh lịch, duyên dáng, thông minh xuất chúng, xuất thân từ một gia đình trí thức đàng hoàng, nếp nhà gia giáo êm ấm. Cô đến với phong thủy bằng đam mê nghiên cứu khoa học không gian, vi khí hậu và năng lượng trường khí tự nhiên.
+* **Triết lý cốt lõi:**
+  > *"Nhất mệnh, nhì vận, tam phong thủy, tứ tích âm đức, ngũ độc thư."*  
+  > Phong thủy chân chính là khoa học môi trường về sự hài hòa giữa Con Người và Không Gian Sống. Người có tâm đức sáng trong, sống đàng hoàng tử tế thì đi đến đâu cũng biến nơi đó thành đất lành chim đậu.
 
 ---
 
@@ -22,23 +22,25 @@
 
 ### 1. Nhân vật trung tâm: NỮ THẦY PHONG THỦY PHAN NA
 * **Lai lịch & Xuất thân:**
-  * Sinh ra và lớn lên trong một gia đình gia giáo, tri thức ở Hà Nội. Cha cô là giảng viên đại học nghiên cứu lịch sử văn hóa, mẹ là bác sĩ y học cổ truyền. Gia đình êm ấm, tôn trọng sự tự lập và luôn là hậu phương tinh thần vững chắc cho cô.
-  * Tốt nghiệp thủ khoa ngành Kiến trúc & Quy hoạch Đô thị. Phan Na sở hữu vẻ ngoài thanh lịch, duyên dáng, gu thẩm mỹ tinh tế, tính tình hòa nhã, thông minh nhưng vô cùng kiên định và sắc sảo.
-  * **Cơ duyên đặc biệt:** Nhờ kiến thức sâu rộng về kiến trúc kết hợp với trực giác nhạy bén bẩm sinh về vi khí hậu (hướng gió, luồng sáng, độ ẩm và trường khí âm dương), Na nhận ra phong thủy cổ truyền chính là đỉnh cao của nghệ thuật quy hoạch sinh thái. Trong một dự án trùng tu di sản văn hóa, cô có cơ duyên kỳ ngộ bái Cụ Tùng Thiện làm sư phụ, tiếp thu trọn vẹn tinh hoa phái Thấu Thiên Cơ.
+  * Sinh ra và lớn lên tại **thành phố Bắc Ninh (vùng đất Kinh Bắc)** trong một gia đình gia giáo, hiếu học. Cha cô là nhà nghiên cứu văn hóa di sản Kinh Bắc, mẹ là bác sĩ y học cổ truyền am hiểu thảo mộc và dưỡng sinh. Ngôi nhà của Na ở Bắc Ninh là một căn nhà vườn truyền thống rợp bóng cau, giếng ngọc đá ong và hồ sen thơm ngát.
+  * Tốt nghiệp thủ khoa ngành Kiến trúc & Quy hoạch Đô thị. Phan Na sở hữu vẻ đẹp đằm thắm của người con gái Kinh Bắc: thanh lịch, dịu dàng trong giao tiếp nhưng cực kỳ nhạy bén, quyết đoán và kiên định trước những sai trái.
+  * **Cơ duyên đặc biệt:** Sinh ra trên vùng đất đậm đặc trầm tích địa lý cổ truyền, Na từ nhỏ đã say mê những nét uốn lượn của dòng sông Đuống và cấu trúc cân bằng âm dương của các ngôi chùa tháp cổ. Trực giác vi khí hậu bẩm sinh kết hợp tư duy kiến trúc hiện đại giúp cô nhận ra phong thủy chính là đỉnh cao của quy hoạch sinh thái. Trong một dự án tôn tạo di tích cổ tại chùa Bút Tháp, cô có cơ duyên kỳ ngộ bái Sư phụ Tùng Thiện làm thầy, tiếp thu chiếc La Kinh ngọc cổ đời Trần của phái Thấu Thiên Cơ.
 * **Vòng cung phát triển (Character Arc qua 4 giai đoạn):**
-  * *Tập 1 – 4 (Kỳ ngộ & Bái sư nhập đạo):* Vạch trần thủ đoạn của thầy phong thủy rởm trong một dự án biệt thự cổ, lọt vào mắt xanh của Sư phụ Tùng Thiện. Na học cách kết hợp giữa khoa học kiến trúc hiện đại và cổ pháp phong thủy.
-  * *Tập 5 – 9 (Nữ kiến trúc sư phong thủy dấn thân đô thị):* Mở văn phòng tư vấn thiết kế kiến trúc cảnh quan & phong thủy sinh thái. Đối mặt với các kỳ án trường khí đô thị (*Thiên Trảm Sát, Thương Sát, Xung Xạ Sát*). Dùng bản lĩnh và sự chính trực từ chối những phi vụ bất lương của giới tài phiệt đen.
-  * *Tập 10 – 15 (Hành trình tầm long ba miền):* Cùng người bạn đồng hành Trần Lam điền dã khảo sát các mạch đất, nhánh sông lớn của đất nước để hoàn thiện công trình nghiên cứu bảo tồn cảnh quan tự nhiên. Đấu trí với các thế lực tà đạo trục lợi địa chất.
-  * *Tập 16 – 20 (Đại Tông Sư kiến trúc phong thủy):* Hóa giải đại cục phong thủy bảo vệ môi trường sinh thái trước sự tàn phá của lòng tham, khẳng định vị thế nữ bậc thầy phong thủy chân chính, sống trọn vẹn với đam mê và đạo đức nghề nghiệp.
+  * *Tập 1 – 4 (Kỳ ngộ đất Kinh Bắc & Bái sư):* Vạch trần thủ đoạn của thầy phong thủy rởm trong một dự án tôn tạo nhà cổ ven sông Đuống, bái Sư phụ Tùng Thiện học cổ pháp địa lý.
+  * *Tập 5 – 9 (Nữ kiến trúc sư phong thủy dấn thân đô thị):* Mở văn phòng tư vấn kiến trúc cảnh quan & phong thủy sinh thái. Phá giải các kỳ án trường khí đô thị (*Thiên Trảm Sát, Thương Sát, Xung Xạ Sát*). Giữ vững đạo đức nghề nghiệp trước cám dỗ tiền bạc.
+  * *Tập 10 – 15 (Hành trình tầm long ba miền):* Cùng người bạn đồng hành Trần Lam điền dã khảo sát các mạch đất, nhánh sông lớn của đất nước (Tây Bắc, Bạch Mã, Đồng bằng sông Cửu Long). Đấu trí với các thế lực tà đạo trục lợi địa chất.
+  * *Tập 16 – 20 (Đại Tông Sư kiến trúc phong thủy):* Cứu vãn các thảm họa sạt lở môi trường, đưa phong thủy trở về bản chất khoa học vị nhân sinh, khẳng định vị thế nữ bậc thầy phong thủy tài hoa đất Kinh Bắc.
 
 ---
 
 ### 2. Tuyến nhân vật đồng hành & Hậu phương
-* **CHA MẸ PHAN NA (Ông Phan Khang & Bà Thanh Hà):** Mẫu phụ huynh mẫu mực, hiểu biết và tâm lý. Luôn nhắc nhở con gái: *"Làm nghề gì cũng được, miễn là đem lại bình an cho người khác và giữ trọn cái tâm ngay thẳng"*. Những bữa cơm gia đình đầm ấm là nơi Na trở về tìm lại sự cân bằng sau những chuyến khảo sát mệt nhoài.
+* **CHA MẸ PHAN NA (Ông Phan Khang & Bà Thanh Hà):** 
+  * Cặp vợ chồng trí thức Kinh Bắc mẫu mực, nho nhã, sống tại Bắc Ninh. Cha là chuyên gia nghiên cứu văn hóa đình chùa; mẹ là lương y bốc thuốc cứu người.
+  * Cha mẹ luôn là chốn bình yên che chở cho Na. Lời dạy của cha: *"Đất Kinh Bắc ngàn đời linh thiêng nhờ biết giữ lễ nghĩa và tích đức, con làm nghề phong thủy phải đặt chữ Tâm lên đầu"*.
 * **TRẦN LAM (Nam, 28 tuổi - Kỹ sư trắc địa & Địa chất công trình):**
-  * Đồng nghiệp và là người bạn đồng hành ăn ý của Na. Ban đầu là một "kỹ sư thuần số liệu", luôn hoài nghi những yếu tố vô hình. Nhưng khi chứng kiến Na dùng lý thuyết trường khí chỉ ra chính xác các túi khí ngầm và mạch sụt lún mà máy khoan thăm dò bỏ sót, Lam hoàn toàn bị thuyết phục.
-  * Cả hai tạo thành cặp bài trùng: Lam cung cấp dữ liệu viễn thám, bản đồ quét 3D địa hình; Na phân tích dòng chảy sinh khí, thế đất Loan Đầu và Bát Trạch.
-* **SƯ PHỤ TÙNG THIỆN (72 tuổi):** Một vị túc nho, ẩn sĩ địa lý chân chính sống thanh bạch giữa vườn trà Yên Tử. Nhìn thấy ở Phan Na một tấm lòng trong sáng, không vụ lợi và tư duy hiện đại, ông đã phá lệ truyền thụ chiếc La Kinh ngọc cổ và tinh hoa cổ phái Thấu Thiên Cơ cho cô.
+  * Đồng nghiệp và bạn đồng hành thân thiết của Na. Là chàng kỹ sư hiện đại, thực tế, ban đầu chỉ tin vào máy móc trắc địa laser và dữ liệu vệ tinh.
+  * Khi làm việc cùng Na, Lam nhận ra sự tương hỗ hoàn hảo: trắc địa hiện đại xác định tọa độ và cấu trúc vật lý, còn phong thủy của Na thấu hiểu dòng chảy năng lượng và tâm lý con người trong không gian.
+* **SƯ PHỤ TÙNG THIỆN (72 tuổi):** Một vị túc nho, ẩn sĩ địa lý chân chính phái Thấu Thiên Cơ sống thanh bạch giữa vườn trà Yên Tử. Nhìn thấy ở Phan Na trí tuệ mẫn tiệp và cái tâm trong sáng của người con gái Kinh Bắc, ông đã phá lệ truyền thụ y bát cho cô.
 * **BÁC BA ĐƯỚC (62 tuổi - Lão ngư miền Tây):** Người dẫn đường hào sảng, chất phác vùng sông nước Cửu Long, hết lòng giúp đỡ Na và Lam trong các chuyến điền dã phương Nam.
 
 ---
@@ -60,35 +62,35 @@ Chuẩn hóa âm thanh phòng thu $48{,}000 \text{ Hz}$, 320 kbps với các t�
    * *Khánh Đồng & Chuông Gió Phong Linh 6 Ống:* Âm thanh thanh khiết ngân dài, tạo cảm giác an tĩnh, xua tan áp lực ngột ngạt của không gian sống.
 
 2. **Âm thanh Không Gian & Trường Khí (Ambience & Sát Khí):**
+   * *Âm vang Kinh Bắc:* Tiếng chuông chùa Bút Tháp ngân nga từ xa, tiếng gió sông Đuống thổi qua bãi dâu xanh ngát, tiếng chim gõ kiến trong vườn nhà Bắc Ninh.
    * *Thiên Trảm Sát đô thị:* Âm thanh gió rít chói gắt qua khe hẹp giữa các khối nhà cao tầng.
-   * *Âm thanh thủy mạch:* Tiếng nước suối đầu nguồn trong vắt róc rách đối lập với tiếng cống ngầm sủi bọt ngột ngạt.
-   * *Không gian gia đình ấm áp:* Tiếng lách cách bát đũa, tiếng nước trà sen nóng hổi rót vào tách sứ, tiếng cười nói dịu dàng của cha mẹ Na.
+   * *Không gian gia đình Bắc Ninh ấm áp:* Tiếng ấm trà sen ngát hương rót róc rách vào chén sứ cổ, tiếng cười nói hiền hậu của cha mẹ Na trong ngôi nhà vườn ngập tràn ánh nắng.
 
 ---
 
 ## 4. DÀN Ý CHI TIẾT 20 TẬP TRUYỆN (EPISODE-BY-EPISODE GUIDE)
 *(Thời lượng chuẩn: 28 – 35 phút mỗi tập)*
 
-### ◈ PHẦN 1: KỲ NGỘ & BÁI SƯ NHẬP ĐẠO (Tập 1 – 4)
+### ◈ PHẦN 1: KỲ NGỘ ĐẤT KINH BẮC & BÁI SƯ (Tập 1 – 4)
 
-* **TẬP 1: BỨC PHÁC THẢO VÀ DỰ ÁN BIỆT THỰ CỔ**
-  * *Bối cảnh:* Văn phòng kiến trúc tại Hà Nội và một căn biệt thự Pháp cổ ven hồ Tây.
-  * *Nội dung:* Phan Na vừa tốt nghiệp thủ khoa ngành Kiến trúc, đang tham gia dự án tôn tạo một căn biệt thự cổ cho một gia đình tri thức. Tại đây, một "thầy phong thủy" nổi tiếng tự xưng là bậc thầy địa lý yêu cầu gia chủ đập bỏ toàn bộ tường hoa và bịt kín giếng trời vì cho rằng phạm "Huyết Nhẫn Sát" – thực chất là để bày vẽ bán các linh vật đồng mạ vàng trị giá hàng trăm triệu. Bằng kiến thức về thông gió tự nhiên, hướng nắng và dòng chảy vi khí hậu, Na đã vẽ lại sơ đồ mặt bằng, chứng minh giếng trời chính là lá phổi thông khí tự nhiên của ngôi nhà. Sự can đảm và sắc sảo của cô đã bảo vệ được nét kiến trúc di sản. Một vị khách già mặc áo bà ba màu nâu đứng quan sát từ đầu đến cuối – đó chính là Sư phụ Tùng Thiện.
-  * *Key Audio:* Tiếng bút vẽ lướt trên giấy can kiến trúc sột soạt, tiếng gõ móng tay trên bản vẽ, tiếng lá sen hồ Tây xào xạc trong gió chiều, tiếng cười khẩy của thầy phong thủy rởm bị bóc mẽ.
+* **TẬP 1: BỨC PHÁC THẢO BÊN DÒNG THIÊN ĐỨC**
+  * *Bối cảnh:* Ngôi nhà vườn của gia đình Phan Na tại thành phố Bắc Ninh và một căn nhà gỗ cổ ven sông Đuống (sông Thiên Đức).
+  * *Nội dung:* Phan Na vừa tốt nghiệp thủ khoa ngành Kiến trúc, đang nhận tư vấn phục dựng một ngôi nhà cổ 5 gian bằng gỗ lim ven sông Đuống cho một người quen của cha. Gia chủ đang hoang mang tột độ vì một "thầy phong thủy" nổi tiếng quả quyết ngôi nhà phạm "Xung Thiên Sát", đòi đập bỏ bức bình phong cổ và thay bằng cổng sắt mạ vàng tốn kém. Phan Na dùng sơ đồ thông gió và góc chiếu mặt trời chứng minh: bức bình phong đá ong và hàng cau trước ngõ chính là giải pháp chắn gió đông bắc lạnh buốt và giữ nhiệt mùa đông tuyệt vời của cha ông. Sự nhạy bén và tính cách đĩnh đạc của cô gái Kinh Bắc khiến vị khách bí mật mặc áo the nâu đứng xem – Sư phụ Tùng Thiện – gật đầu tâm đắc.
+  * *Key Audio:* Tiếng gió sông Đuống thổi vi vu qua rặng tre xanh ngắt, tiếng bút chì vẽ phác thảo sột soạt trên giấy can, tiếng gõ đanh thép của gỗ lim cổ thụ, tiếng cười khẩy của thầy phong thủy rởm bị bóc mẽ.
 
 * **TẬP 2: BÀI TRÀ YÊN TỬ VÀ CHIẾC LA KINH NGỌC CỔ**
   * *Bối cảnh:* Vườn trà xanh ngát trên triền núi Yên Tử, Quảng Ninh.
-  * *Nội dung:* Được Sư phụ Tùng Thiện mời lên đàm đạo, Na cùng cha mẹ có chuyến du xuân thanh tịnh. Tại thảo am, Sư phụ không dạy Na các bài chú ma mị mà cùng cô đun nước pha trà bằng nước giếng ngọc đầu nguồn. Sư phụ chỉ ra rằng: kiến trúc phương Tây định hình hình khối, còn phong thủy phương Đông định hình luồng khí chuyển động bên trong hình khối đó. Thấy Na có tâm tính thiện lương và trực giác nhạy bén hiếm thấy, Sư phụ quyết định nhận cô làm đệ tử chân truyền, trao tặng chiếc La Kinh ngọc cổ đời Trần được bảo tồn qua nhiều thế hệ.
+  * *Nội dung:* Sư phụ Tùng Thiện gửi thư mời Na và cha cô – ông Phan Khang – lên vãng cảnh đàm đạo. Bên ấm trà sen được ủ từ hoa sen hồ Tây và nước giếng ngọc đầu nguồn, Sư phụ thử thách Na bằng cách yêu cầu cô phân tích thế đất của ngôi chùa cổ dựa trên âm thanh tiếng chuông và luồng gió núi. Bằng trực giác vi khí hậu thiên bẩm, Na chỉ ra dòng năng lượng tuần hoàn hoàn hảo giữa ba quả núi chầu về. Nhận thấy cô gái trẻ hội tụ cả kiến thức hiện đại lẫn tâm đức thanh bạch, Sư phụ quyết định trao lại chiếc La Kinh ngọc cổ đời Trần – bảo vật truyền đời của phái Thấu Thiên Cơ – làm kỷ vật nhập môn cho Na.
   * *Key Audio:* Tiếng ấm trà sôi sùng sục trên bếp than hồng, tiếng rót trà trong veo thanh nhã, tiếng chuông gió phong linh ngân nga êm dịu giữa rừng thông, lời giảng giải khúc chiết thâm sâu của Sư phụ.
 
-* **TẬP 3: KHAI THÔNG MẮT RỒNG LÀNG GỐM CỔ**
-  * *Bối cảnh:* Làng gốm cổ ven sông Hồng đang đứng trước nguy cơ lò nung hỏng hàng loạt.
-  * *Nội dung:* Na có chuyến khảo sát thực địa đầu tiên cùng Sư phụ. Nghệ nhân làng gốm khốn đốn vì đất nặn gốm bị nứt nẻ, men gốm đổi màu xám xịt sau khi một con đường liên xã mới được đào đắp. Dân làng hoang mang cho rằng bị "ma ám". Na dùng La Kinh kết hợp đo đạc địa tầng, phát hiện việc đào đường đã chặn đứng mạch nước ngầm thanh thủy dẫn vào hồ ngâm đất sét, khiến nước bị nhiễm phèn chua cực nặng. Na hướng dẫn nghệ nhân đào rãnh lắng cát, đặt các vỉ đá cuội sinh học khơi lại dòng nước ngọt. Lò gốm đỏ lửa trở lại, cho ra đời mẻ gốm men lam sáng bóng tuyệt mỹ.
+* **TẬP 3: KHAI THÔNG MẮT RỒNG LÀNG GỐM PHÙ LÃNG**
+  * *Bối cảnh:* Làng gốm cổ Phù Lãng ven sông Cầu (Bắc Ninh).
+  * *Nội dung:* Làng gốm truyền thống Phù Lãng đứng trước nguy cơ phá sản khi hàng loạt mẻ gốm da lươn nung ra đều bị nứt vỡ, men xỉn màu sau khi một cụm công nghiệp mới đào hào thoát nước. Các bô lão làng cho rằng phạm vào "Long Mạch". Na cùng cha về làng khảo sát. Bằng La Kinh ngọc cổ và mẫu thử địa tầng, Na phát hiện việc đào hào công nghiệp đã cắt đứt mạch bùn sét ngầm và làm nhiễm mặn túi nước ngọt dùng để nhào đất sét. Na vẽ lại bản đồ quy hoạch rãnh lắng cát sinh học, dẫn mạch nước từ giếng cổ trở lại đầm ngâm. Mẻ gốm thử nghiệm ra lò đạt độ bóng hoàn mỹ, dân làng mang tặng Na một chiếc bình gốm men da lươn tinh xảo để tri ân.
   * *Key Audio:* Tiếng bàn xoay gốm quay ro ro, tiếng đất sét nhào nặn ươn ướt, tiếng lửa lò gốm bập bùng réo rắt, tiếng gõ thanh tao của mẻ gốm mới ra lò đạt chuẩn âm vang.
 
-* **TẬP 4: TIẾNG CHUÔNG ĐỒNG TRONG ĐÊM TRĂNG RẰM**
-  * *Bối cảnh:* Đình làng cổ rêu phong và khu đầm lầy hoang vắng.
-  * *Nội dung:* Trong đêm rằm thực địa khảo sát hướng đình làng, Na phát hiện một nhóm người lén lút chôn cọc kim loại yểm sát khí xuống khu đầm phía trước cổng đình nhằm phá vỡ thế đất "Minh Đường Tụ Thủy", ép dân làng phải bán rẻ khu đất cho một dự án resort ô nhiễm. Na dũng cảm dùng thước tầm long và khánh đồng tạo sóng âm thanh phá vỡ từ trường giả mạo của nhóm tà đạo. Kẻ cầm đầu trốn chạy trong bóng tối để lại một chiếc huy hiệu có hình con mèo đen – dấu tích của Hắc Địa Sư Trần Hắc Miêu. Sư phụ Tùng Thiện căn dặn Na: cuộc chiến giữ gìn sự trong lành cho các thế đất chỉ mới bắt đầu.
+* **TẬP 4: TIẾNG CHUÔNG ĐỒNG TRONG ĐÊM TRĂNG BÚT THÁP**
+  * *Bối cảnh:* Quần thể Chùa Bút Tháp cổ kính và cánh đồng trăng ven đê Bắc Ninh.
+  * *Nội dung:* Trong đêm rằm khảo sát hướng tháp Báo Nghiêm, Na phát hiện một nhóm người lén lút chôn cọc kim loại yểm sát khí xuống khu đầm phía trước cổng tam quan nhằm làm sai lệch trường khí tụ thủy của ngôi chùa, phục vụ mưu đồ ép chùa nhượng lại khu đất cho một dự án bến xe ô nhiễm. Na dũng cảm dùng thước tầm long và khánh đồng tạo sóng âm thanh phá vỡ từ trường giả mạo của nhóm tà đạo. Kẻ cầm đầu trốn chạy trong bóng tối để lại một chiếc huy hiệu có hình con mèo đen – dấu tích của Hắc Địa Sư Trần Hắc Miêu. Sư phụ Tùng Thiện căn dặn Na: cuộc chiến giữ gìn sự trong lành cho các thế đất chỉ mới bắt đầu.
   * *Key Audio:* Tiếng dế đêm rả rích rồi im bặt, tiếng cuốc bập vào bùn lầy lạo xạo, tiếng khánh đồng ngân vang đanh gọn xé tan không khí âm u, tiếng bước chân tháo chạy hỗn loạn trong đêm.
 
 ---
@@ -110,10 +112,10 @@ Chuẩn hóa âm thanh phòng thu $48{,}000 \text{ Hz}$, 320 kbps với các t�
   * *Nội dung:* Thân chủ chi tiền tấn tha thiết mời Phan Na thiết lập trận đồ *Ngũ Quỷ Vận Tài* với hồ cá rồng và thác nước nhân tạo đồ sộ để "hút hết tài lộc của các đối thủ xung quanh". Na thẳng thắn từ chối và giải thích: *"Phong thủy là tạo sinh khí cho gia đình an lạc, không phải công cụ tranh đoạt tước đoạt tài vận người khác. Đặt thác nước ầm ĩ ngay cung Càn chỉ tạo ra sát khí khiến tinh thần gia chủ bất an, gia đạo lục đục"*. Gia chủ không nghe, thuê Trần Hắc Miêu đến làm phép. Hậu quả, hệ thống máy bơm chập điện cháy lớn thiêu rụi phòng khách xa hoa, chứng minh lời cảnh báo xác đáng của Na.
   * *Key Audio:* Tiếng thác nước nhân tạo ầm ầm hỗn loạn, tiếng đồng tiền xu phong thủy kêu lanh lảnh, tiếng chập điện nổ tanh tách rồi bùng lên ngọn lửa dữ dội, tiếng còi xe cứu hỏa từ xa.
 
-* **TẬP 8: CƠN SỐT ĐỊA TỪ VÀ BỮA CƠM CỦA MẸ**
-  * *Bối cảnh:* Căn nhà ấm cúng của gia đình Phan Na tại Hà Nội.
-  * *Nội dung:* Sau những ngày khảo sát căng thẳng tại một khu mỏ bỏ hoang bị rò rỉ khí phóng xạ Radon và địa từ trường độc hại, Na bị nhiễm độc vi khí hậu, sốt cao mê man. Mẹ cô – một bác sĩ y học cổ truyền dịu dàng sắc thuốc xông giải độc, còn cha cô ngồi bên cạnh đọc sách lịch sử cho cô nghe như thuở ấu thơ. Lam mang tài liệu trắc địa mẫu đất đến thăm, xúc động trước sự chăm sóc ấm áp của gia đình Na. Tình cảm gia đình đầm ấm là nguồn năng lượng thanh khiết nhất giúp Na mau chóng bình phục, hiểu rằng cội nguồn phong thủy tốt nhất của đời người chính là tình yêu thương và sự hòa thuận trong mái ấm gia đình.
-  * *Key Audio:* Tiếng thuốc bắc sôi liu riu thơm mùi thảo mộc, tiếng mưa rơi êm đềm ngoài hiên nhà, tiếng giọng đọc ấm áp của người cha, tiếng thì thầm cảm ơn dịu dàng của Phan Na.
+* **TẬP 8: CƠN SỐT ĐỊA TỪ VÀ BỮA CƠM CỦA MẸ TẠI BẮC NINH**
+  * *Bối cảnh:* Ngôi nhà vườn bình yên của gia đình Phan Na tại thành phố Bắc Ninh.
+  * *Nội dung:* Sau những ngày khảo sát căng thẳng tại một khu mỏ bỏ hoang bị rò rỉ khí phóng xạ Radon và địa từ trường độc hại, Na bị nhiễm độc vi khí hậu, sốt cao mê man. Cô trở về nhà ở Bắc Ninh để tịnh dưỡng. Mẹ Na – bà Thanh Hà nhẹ nhàng sắc nồi lá xông thảo mộc thơm ngát hương bạc hà, kinh giới, bồ công anh; còn cha cô ngồi bên bàn trà ngâm câu ca quan họ cổ vũ tinh thần con gái. Lam mang tài liệu trắc địa mẫu đất về tận Bắc Ninh thăm cô, ngỡ ngàng trước không gian nhà vườn tĩnh tại và sự đón tiếp nồng hậu, ấm áp của gia đình Na. Tình cảm gia đình đầm ấm là nguồn năng lượng thanh khiết nhất giúp Na mau chóng bình phục.
+  * *Key Audio:* Tiếng nồi lá xông sôi sùng sục tỏa hương thơm ngát, tiếng mưa rơi êm đềm trên mái ngói rêu phong, tiếng chim hót ríu rít ngoài vườn cau Bắc Ninh, tiếng cha Na ngâm nga câu hát quan họ trầm bổng.
 
 * **TẬP 9: HỘI THẢO KIẾN TRÚC XANH VÀ LỜI THÁCH ĐẤU**
   * *Bối cảnh:* Trung tâm hội nghị quốc tế tại Đà Nẵng.
@@ -159,9 +161,9 @@ Chuẩn hóa âm thanh phòng thu $48{,}000 \text{ Hz}$, 320 kbps với các t�
 ### ◈ PHẦN 4: ĐẠI THÀNH & BẢN NGUYÊN BÁT TRẠCH (Tập 16 – 20)
 
 * **TẬP 16: HỘI TỤ ĐẠI CỤC – BẢN ĐỒ SINH THÁI KHÍ TRƯỜNG**
-  * *Bối cảnh:* Văn phòng kiến trúc của Na tại Hà Nội trong những ngày cuối năm tất bật.
-  * *Nội dung:* Sau 2 năm điền dã khắp 3 miền, Na và Lam hoàn thiện công trình đồ sộ: *"Bản đồ GIS mô phỏng trường khí và vi khí hậu sinh thái 63 tỉnh thành"*. Sư phụ Tùng Thiện đích thân đến thăm văn phòng, ngắm nhìn công trình của đệ tử trên màn hình máy tính 3D hiện đại bên cạnh chiếc La Kinh ngọc cổ. Sư phụ mỉm cười mãn nguyện: *"Con đã làm được điều mà các thế hệ trước không làm được: đưa phong thủy trở về đúng bản chất là khoa học phục vụ đời sống con người, xóa bỏ lớp áo mê tín huyễn hoặc"*.
-  * *Key Audio:* Tiếng lách cách gõ bàn phím nhịp nhàng, tiếng quạt máy tính chạy ro ro, tiếng bước chân quen thuộc và giọng cười hiền từ của Sư phụ Tùng Thiện, tiếng chuông gió phong linh ngoài ban công văn phòng reo vui.
+  * *Bối cảnh:* Văn phòng kiến trúc của Na và ngôi nhà vườn Bắc Ninh trong những ngày cuối năm tất bật.
+  * *Nội dung:* Sau 2 năm điền dã khắp 3 miền, Na và Lam hoàn thiện công trình đồ sộ: *"Bản đồ GIS mô phỏng trường khí và vi khí hậu sinh thái 63 tỉnh thành"*. Sư phụ Tùng Thiện đích thân về thăm gia đình Na tại Bắc Ninh, cùng cha mẹ Na ngồi đàm đạo bên mâm cơm tất niên ấm áp và ngắm nhìn công trình của đệ tử trên màn hình máy tính 3D hiện đại bên cạnh chiếc La Kinh ngọc cổ. Sư phụ mỉm cười mãn nguyện: *"Con đã làm được điều mà các thế hệ trước không làm được: đưa phong thủy trở về đúng bản chất là khoa học phục vụ đời sống con người, xóa bỏ lớp áo mê tín huyễn hoặc"*.
+  * *Key Audio:* Tiếng lách cách gõ bàn phím nhịp nhàng, tiếng quạt máy tính chạy ro ro, tiếng bước chân quen thuộc và giọng cười hiền từ của Sư phụ Tùng Thiện, tiếng chuông gió phong linh ngoài ban công vườn reo vui.
 
 * **TẬP 17: CẢNH BÁO THẢM HỌA SẠT LỞ MÙA MƯA LŨ**
   * *Bối cảnh:* Một thung lũng vùng cao miền Trung trước mùa bão lũ lịch sử đổ bộ.
@@ -175,13 +177,13 @@ Chuẩn hóa âm thanh phòng thu $48{,}000 \text{ Hz}$, 320 kbps với các t�
 
 * **TẬP 19: LỄ HỘI TÁI THIẾT VÀ BÀN TAY KIẾN TẠO**
   * *Bối cảnh:* Ngôi làng mới được quy hoạch tái định cư trên dải đất đồi an toàn.
-  * *Nội dung:* Phan Na và Lam tình nguyện vẽ miễn phí quy hoạch toàn bộ khu dân cư mới cho bà con vùng lũ: nhà ở theo hướng gió mát tránh hướng bão, trường học đặt tại vị trí đón trọn ánh sáng mặt trời buổi sớm, hệ thống thoát nước tuần hoàn tự nhiên. Từng ngôi nhà mái ngói đỏ tươi mọc lên giữa màu xanh của rừng cây mới trồng. Dân làng mở hội mừng nhà mới, tôn vinh Na như một người con ưu tú của quê hương. Cha mẹ Na từ Hà Nội cũng lên chung vui cùng con gái, ánh mắt ngập tràn niềm tự hào.
+  * *Nội dung:* Phan Na và Lam tình nguyện vẽ miễn phí quy hoạch toàn bộ khu dân cư mới cho bà con vùng lũ: nhà ở theo hướng gió mát tránh hướng bão, trường học đặt tại vị trí đón trọn ánh sáng mặt trời buổi sớm, hệ thống thoát nước tuần hoàn tự nhiên. Từng ngôi nhà mái ngói đỏ tươi mọc lên giữa màu xanh của rừng cây mới trồng. Dân làng mở hội mừng nhà mới, tôn vinh Na như một người con ưu tú của quê hương. Cha mẹ Na từ Bắc Ninh cũng lên chung vui cùng con gái, ánh mắt ngập tràn niềm tự hào.
   * *Key Audio:* Tiếng cưa gỗ, tiếng búa gõ đanh thép trên công trường dựng nhà mới, tiếng trống hội làng rộn rã tưng bừng, tiếng nói cười rôm rả của các cụ già và trẻ nhỏ, tiếng mẹ Na vỗ về ôm con gái vào lòng.
 
 * **TẬP 20: TÂM SÁNG ĐẤT LÀNH – CON ĐƯỜNG CỦA PHAN NA**
-  * *Bối cảnh:* Hoàng hôn rực rỡ trên hồ Tây, Hà Nội.
-  * *Nội dung:* Văn phòng kiến trúc phong thủy xanh của Phan Na giờ đây là điểm đến uy tín của hàng nghìn dự án nhân văn trên khắp đất nước. Lam chính thức cầu hôn Phan Na bên bờ hồ Tây lộng gió – nơi ghi dấu những bước chân đầu tiên trên con đường sự nghiệp của hai người. Na mỉm cười nhận lời trong niềm hạnh phúc trọn vẹn. Trong buổi lễ tốt nghiệp của lứa học viên thiết kế kiến trúc sinh thái trẻ, Phan Na đứng trên bục giảng, đĩnh đạc truyền cảm hứng cho thế hệ tiếp nối: *"Phong thủy không phải là điều gì huyền bí xa vời. Khi tâm ta trong sáng, khi thiết kế biết tôn trọng tự nhiên và yêu thương con người, thì bất cứ mảnh đất nào ta chạm tới cũng sẽ hóa thành miền đất lành trổ hoa..."*.
-  * *Key Audio:* Tiếng sóng nước hồ Tây vỗ êm đềm vào bờ đá, tiếng chuông gió phong linh 6 ống ngân nga du dương thanh thoát, tiếng vỗ tay rộn ràng của các bạn trẻ sinh viên, tiếng nhạc nền giao hưởng acoustic ấm áp, ngập tràn hy vọng khép lại trọn vẹn bộ truyện 20 tập.
+  * *Bối cảnh:* Hoàng hôn rực rỡ bên bến đò sông Đuống, Bắc Ninh.
+  * *Nội dung:* Văn phòng kiến trúc phong thủy xanh của Phan Na giờ đây là điểm đến uy tín của hàng nghìn dự án nhân văn trên khắp đất nước. Lam chính thức cầu hôn Phan Na bên dòng sông Đuống lộng gió – nơi gắn liền với tuổi thơ và tình yêu quê hương xứ sở của Na. Na mỉm cười nhận lời trong niềm hạnh phúc trọn vẹn. Trong buổi lễ ra mắt trung tâm đào tạo kiến trúc sinh thái trẻ tại Bắc Ninh, Phan Na đứng trên bục giảng, đĩnh đạc truyền cảm hứng cho thế hệ tiếp nối: *"Phong thủy không phải là điều gì huyền bí xa vời. Khi tâm ta trong sáng, khi thiết kế biết tôn trọng tự nhiên và yêu thương con người, thì bất cứ mảnh đất nào ta chạm tới cũng sẽ hóa thành miền đất lành trổ hoa..."*.
+  * *Key Audio:* Tiếng sóng nước sông Đuống vỗ êm đềm vào bờ cỏ, tiếng chuông gió phong linh 6 ống ngân nga du dương thanh thoát, tiếng vỗ tay rộn ràng của các bạn trẻ sinh viên, tiếng nhạc nền giao hưởng acoustic ấm áp, ngập tràn hy vọng khép lại trọn vẹn bộ truyện 20 tập.
 
 ---
 
@@ -189,15 +191,15 @@ Chuẩn hóa âm thanh phòng thu $48{,}000 \text{ Hz}$, 320 kbps với các t�
 
 | Tham số | Giá trị quy chuẩn cho Story 02 | Chi tiết kỹ thuật |
 | :--- | :--- | :--- |
-| **Nữ chính** | **PHAN NA** (24 tuổi - Cử nhân kiến trúc, Thầy phong thủy) | Giọng đọc: `vi-VN-HoaiMyNeural` (`rate: +0%`, `pitch: +2Hz`) - Thanh lịch, thông tuệ, tự tin, ấm áp |
+| **Nữ chính** | **PHAN NA** (24 tuổi - Cử nhân kiến trúc, Thầy phong thủy xứ Kinh Bắc) | Giọng đọc: `vi-VN-HoaiMyNeural` (`rate: +0%`, `pitch: +2Hz`) - Thanh lịch, thông tuệ, tự tin, ấm áp |
 | **Đồng hành** | **TRẦN LAM** (28 tuổi - Kỹ sư trắc địa địa chất) | Giọng đọc: `vi-VN-NamMinhNeural` (`rate: +1%`, `pitch: +2Hz`) - Trẻ trung, khoa học, đĩnh đạc |
 | **Sư phụ** | **SƯ PHỤ TÙNG THIỆN** (72 tuổi - Ẩn sĩ phong thủy Yên Tử) | Giọng đọc: `vi-VN-NamMinhNeural` (`rate: -12%`, `pitch: -22Hz`) - Uy nghiêm, chậm rãi, thông tuệ |
-| **Cha của Na** | **ÔNG PHAN KHANG** (54 tuổi - Giảng viên lịch sử) | Giọng đọc: `vi-VN-NamMinhNeural` (`rate: -4%`, `pitch: -8Hz`) - Ấm áp, mô phạm, bao dung |
-| **Mẹ của Na** | **BÀ THANH HÀ** (52 tuổi - Bác sĩ y học cổ truyền) | Giọng đọc: `vi-VN-HoaiMyNeural` (`rate: -4%`, `pitch: -4Hz`) - Dịu dàng, hiền hậu, ân cần |
+| **Cha của Na** | **ÔNG PHAN KHANG** (54 tuổi - Nhà nghiên cứu di sản Kinh Bắc) | Giọng đọc: `vi-VN-NamMinhNeural` (`rate: -4%`, `pitch: -8Hz`) - Ấm áp, mô phạm, bao dung |
+| **Mẹ của Na** | **BÀ THANH HÀ** (52 tuổi - Bác sĩ y học cổ truyền Bắc Ninh) | Giọng đọc: `vi-VN-HoaiMyNeural` (`rate: -4%`, `pitch: -4Hz`) - Dịu dàng, hiền hậu, ân cần |
 | **Phản diện** | **HẮC ĐỊA SƯ TRẦN HẮC MIÊU** | Giọng đọc: `vi-VN-NamMinhNeural` (`rate: -6%`, `pitch: -24Hz`) - Ngạo mạn, thâm độc, lạnh lùng |
 | **Người dẫn chuyện** | **NGƯỜI DẪN CHUYỆN** | Giọng đọc: `vi-VN-NamMinhNeural` (`rate: -3%`, `pitch: -4Hz`) - Điện ảnh, truyền cảm, cuốn hút |
 | **Tần số chuẩn** | $48{,}000 \text{ Hz}$, 320 kbps MP3 | Chuẩn phòng thu phát sóng quốc tế / Podcast |
 | **Quy mô kịch bản** | 20 Tập $\times$ ~30 Phút/tập | Tổng thời lượng hoàn thiện: ~10 giờ audio |
 
 ---
-*Bản Master Bible này đã được cập nhật chuẩn xác với bối cảnh gia đình gia giáo, êm ấm, tri thức và tôn vinh nhân vật chính **PHAN NA** theo đúng mong muốn của tác giả.*
+*Bản Master Bible này đã được cập nhật chuẩn xác với cội nguồn quê hương **BẮC NINH (Kinh Bắc)**, khắc họa vẻ đẹp tri thức, thanh lịch và tự hào của nhân vật chính **PHAN NA**.*
